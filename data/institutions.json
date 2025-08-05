@@ -1,0 +1,246 @@
+[
+  {
+    "_id": "507f1f77bcf86cd799439011",
+    "name": "北京体育大学",
+    "type": "university",
+    "description": "国内顶级体育高等学府，培养专业体育人才",
+    "address": {
+      "country": "中国",
+      "province": "北京市",
+      "city": "北京市",
+      "district": "海淀区",
+      "street": "信息路48号",
+      "postalCode": "100084"
+    },
+    "contact": {
+      "phone": "010-62989000",
+      "email": "admin@bsu.edu.cn",
+      "website": "https://www.bsu.edu.cn"
+    },
+    "settings": {
+      "maxUsers": 5000,
+      "maxClasses": 500,
+      "maxStorage": 10240,
+      "enabledFeatures": ["basic", "analytics", "collaboration", "ai_features", "video_learning"],
+      "customization": {
+        "logo": "/images/institutions/bsu_logo.png",
+        "primaryColor": "#1890ff",
+        "theme": "default"
+      },
+      "permissions": {
+        "allowSelfRegistration": true,
+        "requireApproval": false,
+        "allowGuestAccess": false,
+        "defaultUserRole": "student"
+      },
+      "notification": {
+        "emailEnabled": true,
+        "smsEnabled": true,
+        "pushEnabled": true,
+        "defaultLanguage": "zh-CN"
+      }
+    },
+    "adminUsers": ["507f1f77bcf86cd799439101"],
+    "status": "active",
+    "statistics": {
+      "totalUsers": 1256,
+      "totalClasses": 89,
+      "totalQuestions": 1520,
+      "storageUsed": 4512,
+      "lastActivityAt": "2024-01-15T08:00:00.000Z"
+    },
+    "createdBy": "507f1f77bcf86cd799439101",
+    "subscription": {
+      "plan": "premium",
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2024-12-31T23:59:59.000Z",
+      "status": "active",
+      "features": ["basic", "analytics", "collaboration", "ai_features", "video_learning", "api_access"]
+    },
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-15T08:00:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439012",
+    "name": "清华大学附属中学",
+    "type": "high_school",
+    "description": "知名重点中学，注重体育素质教育",
+    "address": {
+      "country": "中国",
+      "province": "北京市",
+      "city": "北京市",
+      "district": "海淀区",
+      "street": "中关村北大街清华园1号",
+      "postalCode": "100084"
+    },
+    "contact": {
+      "phone": "010-62770334",
+      "email": "admin@qhfz.edu.cn",
+      "website": "https://www.qhfz.edu.cn"
+    },
+    "settings": {
+      "maxUsers": 2000,
+      "maxClasses": 200,
+      "maxStorage": 5120,
+      "enabledFeatures": ["basic", "analytics", "collaboration", "video_learning"],
+      "customization": {
+        "logo": "/images/institutions/qhfz_logo.png",
+        "primaryColor": "#722ed1",
+        "theme": "default"
+      },
+      "permissions": {
+        "allowSelfRegistration": true,
+        "requireApproval": true,
+        "allowGuestAccess": false,
+        "defaultUserRole": "student"
+      },
+      "notification": {
+        "emailEnabled": true,
+        "smsEnabled": false,
+        "pushEnabled": true,
+        "defaultLanguage": "zh-CN"
+      }
+    },
+    "adminUsers": ["507f1f77bcf86cd799439102"],
+    "status": "active",
+    "statistics": {
+      "totalUsers": 890,
+      "totalClasses": 45,
+      "totalQuestions": 856,
+      "storageUsed": 2156,
+      "lastActivityAt": "2024-01-15T09:30:00.000Z"
+    },
+    "createdBy": "507f1f77bcf86cd799439102",
+    "subscription": {
+      "plan": "basic",
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2024-12-31T23:59:59.000Z",
+      "status": "active",
+      "features": ["basic", "analytics", "collaboration", "video_learning"]
+    },
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-15T09:30:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439013",
+    "name": "上海市第一中学",
+    "type": "high_school",
+    "description": "历史悠久的重点中学，体育教育特色突出",
+    "address": {
+      "country": "中国",
+      "province": "上海市",
+      "city": "上海市",
+      "district": "黄浦区",
+      "street": "公园路10号",
+      "postalCode": "200001"
+    },
+    "contact": {
+      "phone": "021-63249086",
+      "email": "admin@sh1z.edu.cn",
+      "website": "https://www.sh1z.edu.cn"
+    },
+    "settings": {
+      "maxUsers": 1500,
+      "maxClasses": 150,
+      "maxStorage": 3072,
+      "enabledFeatures": ["basic", "analytics", "video_learning"],
+      "customization": {
+        "logo": "/images/institutions/sh1z_logo.png",
+        "primaryColor": "#52c41a",
+        "theme": "default"
+      },
+      "permissions": {
+        "allowSelfRegistration": true,
+        "requireApproval": false,
+        "allowGuestAccess": false,
+        "defaultUserRole": "student"
+      },
+      "notification": {
+        "emailEnabled": true,
+        "smsEnabled": false,
+        "pushEnabled": true,
+        "defaultLanguage": "zh-CN"
+      }
+    },
+    "adminUsers": ["507f1f77bcf86cd799439103"],
+    "status": "active",
+    "statistics": {
+      "totalUsers": 678,
+      "totalClasses": 36,
+      "totalQuestions": 542,
+      "storageUsed": 1847,
+      "lastActivityAt": "2024-01-15T10:15:00.000Z"
+    },
+    "createdBy": "507f1f77bcf86cd799439103",
+    "subscription": {
+      "plan": "basic",
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2024-12-31T23:59:59.000Z",
+      "status": "active",
+      "features": ["basic", "analytics", "video_learning"]
+    },
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-15T10:15:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439014",
+    "name": "飞跃体育培训中心",
+    "type": "training_center",
+    "description": "专业体育培训机构，提供多项目体育训练",
+    "address": {
+      "country": "中国",
+      "province": "广东省", 
+      "city": "深圳市",
+      "district": "南山区",
+      "street": "科技园南区深南大道9018号",
+      "postalCode": "518057"
+    },
+    "contact": {
+      "phone": "0755-26063456",
+      "email": "info@feiyue-sports.com",
+      "website": "https://www.feiyue-sports.com"
+    },
+    "settings": {
+      "maxUsers": 800,
+      "maxClasses": 80,
+      "maxStorage": 2048,
+      "enabledFeatures": ["basic", "video_learning"],
+      "customization": {
+        "logo": "/images/institutions/feiyue_logo.png",
+        "primaryColor": "#fa8c16",
+        "theme": "default"
+      },
+      "permissions": {
+        "allowSelfRegistration": true,
+        "requireApproval": true,
+        "allowGuestAccess": true,
+        "defaultUserRole": "student"
+      },
+      "notification": {
+        "emailEnabled": true,
+        "smsEnabled": true,
+        "pushEnabled": true,
+        "defaultLanguage": "zh-CN"
+      }
+    },
+    "adminUsers": ["507f1f77bcf86cd799439104"],
+    "status": "active",
+    "statistics": {
+      "totalUsers": 425,
+      "totalClasses": 32,
+      "totalQuestions": 298,
+      "storageUsed": 876,
+      "lastActivityAt": "2024-01-15T11:45:00.000Z"
+    },
+    "createdBy": "507f1f77bcf86cd799439104",
+    "subscription": {
+      "plan": "free",
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2024-12-31T23:59:59.000Z",
+      "status": "active",
+      "features": ["basic"]
+    },
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-15T11:45:00.000Z"
+  }
+] 

@@ -1,0 +1,437 @@
+[
+  {
+    "_id": "507f1f77bcf86cd799440001",
+    "title": "足球基本规则",
+    "content": "足球比赛的基本规则包括：场地规格、比赛时间、球员数量、越位规则、犯规与处罚等。了解这些基本规则是学习足球的第一步。",
+    "summary": "足球比赛的基本规则介绍",
+    "knowledgeBaseId": "507f1f77bcf86cd799439011",
+    "parentId": null,
+    "level": 1,
+    "order": 1,
+    "category": "足球",
+    "tags": [
+      "规则",
+      "基础",
+      "比赛"
+    ],
+    "difficulty": "beginner",
+    "estimatedTime": 15,
+    "sections": [
+      {
+        "id": "section_001",
+        "type": "text",
+        "title": "比赛场地",
+        "content": "足球场地为长方形，长度90-120米，宽度45-90米。国际比赛标准长度100-110米，宽度64-75米。",
+        "metadata": {},
+        "order": 1
+      },
+      {
+        "id": "section_002",
+        "type": "text",
+        "title": "比赛时间",
+        "content": "比赛分为上下两个半场，每半场45分钟，中场休息15分钟。裁判可根据情况补时。",
+        "metadata": {},
+        "order": 2
+      }
+    ],
+    "mediaFiles": [
+      {
+        "id": "media_001",
+        "type": "image",
+        "title": "足球场地示意图",
+        "description": "标准足球场地各区域标记",
+        "url": "/images/knowledge/football_field.jpg",
+        "fileId": "img_001",
+        "size": 256000,
+        "format": "jpg",
+        "thumbnail": "/images/knowledge/thumbnails/football_field_thumb.jpg",
+        "metadata": {}
+      }
+    ],
+    "prerequisites": [],
+    "related": [
+      "507f1f77bcf86cd799440002"
+    ],
+    "children": [],
+    "objectives": [
+      {
+        "id": "obj_001",
+        "description": "理解足球比赛的基本规则",
+        "type": "knowledge",
+        "assessmentCriteria": "能够说出比赛时间、场地规格等基本规则"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "ex_001",
+        "type": "choice",
+        "title": "足球比赛时间",
+        "description": "选择正确的足球比赛时间",
+        "difficulty": "easy",
+        "points": 10,
+        "timeLimit": 60,
+        "content": {
+          "question": "足球比赛每半场的标准时间是多少分钟？",
+          "options": [
+            "30分钟",
+            "45分钟",
+            "60分钟",
+            "90分钟"
+          ],
+          "correctAnswer": 1
+        }
+      }
+    ],
+    "version": {
+      "current": "1.0",
+      "history": [
+        {
+          "version": "1.0",
+          "authorId": "507f1f77bcf86cd799439201",
+          "authorName": "张老师",
+          "timestamp": "2024-01-02T00:00:00.000Z",
+          "changeLog": "创建足球基本规则知识点",
+          "changes": []
+        }
+      ]
+    },
+    "collaboration": {
+      "isLocked": false,
+      "currentEditors": [],
+      "pendingChanges": []
+    },
+    "quality": {
+      "completeness": 95,
+      "accuracy": 98,
+      "clarity": 92,
+      "upToDate": 100,
+      "overallScore": 96,
+      "lastAssessed": "2024-01-15T00:00:00.000Z",
+      "assessedBy": "507f1f77bcf86cd799439201",
+      "issues": []
+    },
+    "statistics": {
+      "views": 342,
+      "uniqueViews": 156,
+      "completions": 124,
+      "averageTimeSpent": 18,
+      "rating": 4.6,
+      "ratingCount": 45,
+      "difficulty": 2.1,
+      "lastViewed": "2024-01-15T12:30:00.000Z",
+      "popularityScore": 87
+    },
+    "status": "published",
+    "visibility": "public",
+    "permissions": {
+      "read": [
+        "student",
+        "teacher"
+      ],
+      "write": [
+        "teacher"
+      ],
+      "admin": [
+        "admin"
+      ]
+    },
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-15T08:30:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799440002",
+    "title": "颠球基础技巧",
+    "content": "颠球是足球基本功训练的重要内容，通过脚部、大腿、头部等不同部位控制球的运动，提高球感和身体协调性。",
+    "summary": "足球颠球技术的基础训练方法",
+    "knowledgeBaseId": "507f1f77bcf86cd799439011",
+    "parentId": null,
+    "level": 1,
+    "order": 2,
+    "category": "足球",
+    "tags": [
+      "颠球",
+      "基础技巧",
+      "训练"
+    ],
+    "difficulty": "beginner",
+    "estimatedTime": 25,
+    "sections": [
+      {
+        "id": "section_001",
+        "type": "text",
+        "title": "颠球姿势",
+        "content": "保持身体平衡，双脚分开与肩同宽，膝盖微曲，眼睛注视足球。",
+        "metadata": {},
+        "order": 1
+      },
+      {
+        "id": "section_002",
+        "type": "video",
+        "title": "颠球演示",
+        "content": "颠球技巧的详细演示视频",
+        "metadata": {
+          "duration": 180,
+          "url": "/videos/knowledge/football_juggling_demo.mp4",
+          "format": "mp4"
+        },
+        "order": 2
+      }
+    ],
+    "mediaFiles": [
+      {
+        "id": "media_001",
+        "type": "video",
+        "title": "颠球训练视频",
+        "description": "专业教练颠球技巧演示",
+        "url": "/videos/knowledge/football_juggling_demo.mp4",
+        "fileId": "vid_001",
+        "size": 15680000,
+        "format": "mp4",
+        "thumbnail": "/images/knowledge/thumbnails/juggling_thumb.jpg",
+        "duration": 180,
+        "metadata": {}
+      }
+    ],
+    "prerequisites": [
+      "507f1f77bcf86cd799440001"
+    ],
+    "related": [
+      "507f1f77bcf86cd799440003"
+    ],
+    "children": [],
+    "objectives": [
+      {
+        "id": "obj_001",
+        "description": "掌握基本颠球技巧",
+        "type": "skill",
+        "assessmentCriteria": "能连续颠球10次以上"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "ex_001",
+        "type": "practice",
+        "title": "颠球练习",
+        "description": "进行颠球基础练习",
+        "difficulty": "medium",
+        "points": 20,
+        "timeLimit": 300,
+        "content": {
+          "instruction": "在指定时间内完成连续颠球练习，记录最多连续颠球次数",
+          "target": 10,
+          "assessment": "practical"
+        }
+      }
+    ],
+    "version": {
+      "current": "1.1",
+      "history": [
+        {
+          "version": "1.0",
+          "authorId": "507f1f77bcf86cd799439201",
+          "authorName": "张老师",
+          "timestamp": "2024-01-02T00:00:00.000Z",
+          "changeLog": "创建颠球基础技巧知识点",
+          "changes": []
+        },
+        {
+          "version": "1.1",
+          "authorId": "507f1f77bcf86cd799439201",
+          "authorName": "张老师",
+          "timestamp": "2024-01-10T00:00:00.000Z",
+          "changeLog": "添加训练视频",
+          "changes": [
+            {
+              "field": "mediaFiles",
+              "oldValue": [],
+              "newValue": "添加演示视频"
+            }
+          ]
+        }
+      ]
+    },
+    "collaboration": {
+      "isLocked": false,
+      "currentEditors": [],
+      "pendingChanges": []
+    },
+    "quality": {
+      "completeness": 98,
+      "accuracy": 95,
+      "clarity": 94,
+      "upToDate": 95,
+      "overallScore": 95,
+      "lastAssessed": "2024-01-15T00:00:00.000Z",
+      "assessedBy": "507f1f77bcf86cd799439201",
+      "issues": []
+    },
+    "statistics": {
+      "views": 289,
+      "uniqueViews": 134,
+      "completions": 98,
+      "averageTimeSpent": 28,
+      "rating": 4.4,
+      "ratingCount": 38,
+      "difficulty": 3.2,
+      "lastViewed": "2024-01-15T14:20:00.000Z",
+      "popularityScore": 78
+    },
+    "status": "published",
+    "visibility": "public",
+    "permissions": {
+      "read": [
+        "student",
+        "teacher"
+      ],
+      "write": [
+        "teacher"
+      ],
+      "admin": [
+        "admin"
+      ]
+    },
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-10T00:00:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799440003",
+    "title": "传球技术要点",
+    "content": "传球是足球比赛中最基本、最重要的技术之一。包括脚内侧传球、脚背传球等多种方式。",
+    "summary": "足球传球的基本技术和要点",
+    "knowledgeBaseId": "507f1f77bcf86cd799439011",
+    "parentId": null,
+    "level": 1,
+    "order": 3,
+    "category": "足球",
+    "tags": [
+      "传球",
+      "技术",
+      "配合"
+    ],
+    "difficulty": "beginner",
+    "estimatedTime": 30,
+    "sections": [
+      {
+        "id": "section_001",
+        "type": "text",
+        "title": "脚内侧传球",
+        "content": "脚内侧传球是最基础的传球方式，准确性高，适合短距离传球。",
+        "metadata": {},
+        "order": 1
+      },
+      {
+        "id": "section_002",
+        "type": "text",
+        "title": "脚背传球",
+        "content": "脚背传球力量大，传球距离远，适合长距离传球和快速反击。",
+        "metadata": {},
+        "order": 2
+      }
+    ],
+    "mediaFiles": [
+      {
+        "id": "media_001",
+        "type": "image",
+        "title": "传球技术图解",
+        "description": "不同传球方式的技术要点图解",
+        "url": "/images/knowledge/passing_techniques.jpg",
+        "fileId": "img_002",
+        "size": 189000,
+        "format": "jpg",
+        "thumbnail": "/images/knowledge/thumbnails/passing_thumb.jpg",
+        "metadata": {}
+      }
+    ],
+    "prerequisites": [
+      "507f1f77bcf86cd799440002"
+    ],
+    "related": [
+      "507f1f77bcf86cd799440004"
+    ],
+    "children": [],
+    "objectives": [
+      {
+        "id": "obj_001",
+        "description": "掌握基本传球技术",
+        "type": "skill",
+        "assessmentCriteria": "能够准确完成10米内传球"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "ex_001",
+        "type": "choice",
+        "title": "传球技术判断",
+        "description": "判断不同情况下的最佳传球方式",
+        "difficulty": "medium",
+        "points": 15,
+        "timeLimit": 90,
+        "content": {
+          "question": "在距离较远且需要快速传球时，最适合使用哪种传球方式？",
+          "options": [
+            "脚内侧传球",
+            "脚背传球",
+            "脚尖传球",
+            "脚跟传球"
+          ],
+          "correctAnswer": 1
+        }
+      }
+    ],
+    "version": {
+      "current": "1.0",
+      "history": [
+        {
+          "version": "1.0",
+          "authorId": "507f1f77bcf86cd799439201",
+          "authorName": "张老师",
+          "timestamp": "2024-01-03T00:00:00.000Z",
+          "changeLog": "创建传球技术要点知识点",
+          "changes": []
+        }
+      ]
+    },
+    "collaboration": {
+      "isLocked": false,
+      "currentEditors": [],
+      "pendingChanges": []
+    },
+    "quality": {
+      "completeness": 92,
+      "accuracy": 96,
+      "clarity": 88,
+      "upToDate": 98,
+      "overallScore": 93,
+      "lastAssessed": "2024-01-15T00:00:00.000Z",
+      "assessedBy": "507f1f77bcf86cd799439201",
+      "issues": []
+    },
+    "statistics": {
+      "views": 267,
+      "uniqueViews": 145,
+      "completions": 108,
+      "averageTimeSpent": 32,
+      "rating": 4.5,
+      "ratingCount": 42,
+      "difficulty": 2.8,
+      "lastViewed": "2024-01-15T13:45:00.000Z",
+      "popularityScore": 82
+    },
+    "status": "published",
+    "visibility": "public",
+    "permissions": {
+      "read": [
+        "student",
+        "teacher"
+      ],
+      "write": [
+        "teacher"
+      ],
+      "admin": [
+        "admin"
+      ]
+    },
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2024-01-15T09:15:00.000Z"
+  }
+]

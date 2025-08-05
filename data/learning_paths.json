@@ -1,0 +1,140 @@
+[
+  {
+    "_id": "507f1f77bcf86cd799441001",
+    "knowledgeBase": "507f1f77bcf86cd799439011",
+    "title": "足球基础入门路径",
+    "description": "专为足球初学者设计的学习路径，从基本规则到基础技能的系统性学习",
+    "knowledgePoints": [
+      {
+        "pointId": "507f1f77bcf86cd799440001",
+        "order": 1,
+        "isOptional": false,
+        "estimatedTime": 15
+      },
+      {
+        "pointId": "507f1f77bcf86cd799440002",
+        "order": 2,
+        "isOptional": false,
+        "estimatedTime": 25
+      },
+      {
+        "pointId": "507f1f77bcf86cd799440003",
+        "order": 3,
+        "isOptional": false,
+        "estimatedTime": 30
+      }
+    ],
+    "difficulty": "beginner",
+    "estimatedDuration": 70,
+    "prerequisites": [],
+    "objectives": [
+      "掌握足球基本规则",
+      "学会基础颠球技巧",
+      "掌握传球基本技术",
+      "建立足球基础技能框架"
+    ],
+    "status": "published",
+    "isDefault": true,
+    "stats": {
+      "learners": 156,
+      "completions": 124,
+      "avgCompletionTime": 85,
+      "avgRating": 4.6
+    },
+    "createdBy": "507f1f77bcf86cd799439201",
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-15T08:30:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799441002",
+    "knowledgeBase": "507f1f77bcf86cd799439012",
+    "title": "篮球技术进阶路径",
+    "description": "适合有一定篮球基础的学员，系统提升投篮、防守和战术配合能力",
+    "knowledgePoints": [
+      {
+        "pointId": "507f1f77bcf86cd799440011",
+        "order": 1,
+        "isOptional": false,
+        "estimatedTime": 20
+      },
+      {
+        "pointId": "507f1f77bcf86cd799440012",
+        "order": 2,
+        "isOptional": false,
+        "estimatedTime": 35
+      },
+      {
+        "pointId": "507f1f77bcf86cd799440013",
+        "order": 3,
+        "isOptional": true,
+        "estimatedTime": 25
+      }
+    ],
+    "difficulty": "intermediate",
+    "estimatedDuration": 80,
+    "prerequisites": ["基础篮球技能"],
+    "objectives": [
+      "提升投篮准确性",
+      "掌握防守基本策略",
+      "学会团队配合技巧",
+      "理解篮球战术体系"
+    ],
+    "status": "published",
+    "isDefault": true,
+    "stats": {
+      "learners": 89,
+      "completions": 58,
+      "avgCompletionTime": 95,
+      "avgRating": 4.8
+    },
+    "createdBy": "507f1f77bcf86cd799439202",
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-15T09:45:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799441003",
+    "knowledgeBase": "507f1f77bcf86cd799439013",
+    "title": "游泳安全与技能路径",
+    "description": "游泳初学者的完整学习路径，从安全知识到基本泳姿的全面掌握",
+    "knowledgePoints": [
+      {
+        "pointId": "507f1f77bcf86cd799440021",
+        "order": 1,
+        "isOptional": false,
+        "estimatedTime": 15
+      },
+      {
+        "pointId": "507f1f77bcf86cd799440022",
+        "order": 2,
+        "isOptional": false,
+        "estimatedTime": 30
+      },
+      {
+        "pointId": "507f1f77bcf86cd799440023",
+        "order": 3,
+        "isOptional": false,
+        "estimatedTime": 40
+      }
+    ],
+    "difficulty": "beginner",
+    "estimatedDuration": 85,
+    "prerequisites": [],
+    "objectives": [
+      "掌握水上安全知识",
+      "学会基本泳姿",
+      "培养水感和协调性",
+      "具备基本自救能力"
+    ],
+    "status": "published",
+    "isDefault": true,
+    "stats": {
+      "learners": 234,
+      "completions": 192,
+      "avgCompletionTime": 92,
+      "avgRating": 4.5
+    },
+    "createdBy": "507f1f77bcf86cd799439201",
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z"
+  }
+] 

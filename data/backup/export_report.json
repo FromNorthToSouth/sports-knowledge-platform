@@ -1,0 +1,79 @@
+{
+  "export_time": "2025-07-31 17:35:56",
+  "database_name": "sports_knowledge_platform",
+  "connection_string": "mongodb://localhost:27017",
+  "collections": {
+    "institutions": {
+      "collection_name": "institutions",
+      "description": "机构数据",
+      "filename": "institutions_export.json",
+      "total_documents": 9,
+      "exported_documents": 9,
+      "errors": 0,
+      "success": true
+    },
+    "users": {
+      "collection_name": "users",
+      "description": "用户数据",
+      "filename": "users_export.json",
+      "total_documents": 26,
+      "exported_documents": 26,
+      "errors": 0,
+      "success": true
+    },
+    "knowledgebases": {
+      "collection_name": "knowledgebases",
+      "description": "知识库数据",
+      "filename": "knowledge_bases_export.json",
+      "total_documents": 5,
+      "exported_documents": 5,
+      "errors": 0,
+      "success": true
+    },
+    "knowledgepoints": {
+      "collection_name": "knowledgepoints",
+      "description": "知识点数据",
+      "filename": "knowledge_points_export.json",
+      "total_documents": 3,
+      "exported_documents": 3,
+      "errors": 0,
+      "success": true
+    },
+    "learningpaths": {
+      "collection_name": "learningpaths",
+      "description": "学习路径数据",
+      "filename": "learning_paths_export.json",
+      "total_documents": 3,
+      "exported_documents": 3,
+      "errors": 0,
+      "success": true
+    },
+    "questions": {
+      "collection_name": "questions",
+      "description": "题目数据",
+      "filename": "questions_export.json",
+      "total_documents": 8,
+      "exported_documents": 8,
+      "errors": 0,
+      "success": true
+    },
+    "exams": {
+      "collection_name": "exams",
+      "description": "考试记录数据",
+      "filename": "exams_export.json",
+      "total_documents": 5,
+      "exported_documents": 5,
+      "errors": 0,
+      "success": true
+    },
+    "knowledgeprogresses": {
+      "collection_name": "knowledgeprogresses",
+      "description": "学习进度数据",
+      "filename": "knowledge_progress_export.json",
+      "total_documents": 10,
+      "exported_documents": 10,
+      "errors": 0,
+      "success": true
+    }
+  }
+}

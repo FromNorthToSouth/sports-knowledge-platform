@@ -1,0 +1,9 @@
+@echo off
+echo 正在停止现有的Node.js进程...
+taskkill /f /im node.exe 2>nul
+
+echo 等待进程完全停止...
+timeout /t 2 /nobreak >nul
+
+echo 启动临时后端服务...
+node temp-server.js 

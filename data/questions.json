@@ -1,0 +1,230 @@
+[
+  {
+    "_id": "507f1f77bcf86cd799442001",
+    "title": "足球比赛基本规则",
+    "content": "足球比赛每半场的标准时间是多少分钟？",
+    "type": "single_choice",
+    "options": [
+      {
+        "text": "30分钟",
+        "isCorrect": false,
+        "explanation": "30分钟太短，不是标准时间"
+      },
+      {
+        "text": "45分钟",
+        "isCorrect": true,
+        "explanation": "正确，足球比赛每半场标准时间是45分钟"
+      },
+      {
+        "text": "60分钟",
+        "isCorrect": false,
+        "explanation": "60分钟是整场比赛的净时间，不是半场时间"
+      },
+      {
+        "text": "90分钟",
+        "isCorrect": false,
+        "explanation": "90分钟是整场比赛时间，包括两个半场"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "根据国际足联规定，足球比赛分为上下两个半场，每半场45分钟，中间休息15分钟。裁判可以根据比赛中断情况适当补时。",
+    "category": {
+      "sport": "足球",
+      "knowledgeType": "规则",
+      "subCategory": "比赛时间"
+    },
+    "tags": ["足球", "规则", "时间", "基础"],
+    "difficulty": "easy",
+    "media": {
+      "images": ["/images/questions/football_time.jpg"],
+      "videos": [],
+      "audio": []
+    },
+    "stats": {
+      "totalAttempts": 234,
+      "correctAttempts": 198,
+      "accuracy": 84.62,
+      "averageTime": 12
+    },
+    "status": "published",
+    "creator": "507f1f77bcf86cd799439201",
+    "reviewedBy": "507f1f77bcf86cd799439101",
+    "reviewedAt": "2024-01-02T10:00:00.000Z",
+    "isAIGenerated": false,
+    "version": 1,
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-15T08:30:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799442002",
+    "title": "足球颠球技巧",
+    "content": "在进行足球颠球训练时，以下哪些身体部位可以使用？（多选题）",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "脚背",
+        "isCorrect": true,
+        "explanation": "脚背是颠球的主要部位之一"
+      },
+      {
+        "text": "大腿",
+        "isCorrect": true,
+        "explanation": "大腿可以用来颠球，增加变化"
+      },
+      {
+        "text": "头部",
+        "isCorrect": true,
+        "explanation": "头部颠球能提高头球技术"
+      },
+      {
+        "text": "手臂",
+        "isCorrect": false,
+        "explanation": "手臂不能用于颠球，这违反足球规则"
+      }
+    ],
+    "correctAnswer": [0, 1, 2],
+    "explanation": "足球颠球可以使用除手臂以外的身体部位，主要包括脚背、脚内侧、大腿、胸部、头部等。通过不同部位的练习可以提高球感和身体协调性。",
+    "category": {
+      "sport": "足球",
+      "knowledgeType": "技术",
+      "subCategory": "颠球"
+    },
+    "tags": ["足球", "颠球", "技术", "训练"],
+    "difficulty": "medium",
+    "media": {
+      "images": ["/images/questions/football_juggling.jpg"],
+      "videos": ["/videos/questions/juggling_demo.mp4"],
+      "audio": []
+    },
+    "stats": {
+      "totalAttempts": 189,
+      "correctAttempts": 145,
+      "accuracy": 76.72,
+      "averageTime": 18
+    },
+    "status": "published",
+    "creator": "507f1f77bcf86cd799439201",
+    "reviewedBy": "507f1f77bcf86cd799439101",
+    "reviewedAt": "2024-01-03T10:00:00.000Z",
+    "isAIGenerated": false,
+    "version": 1,
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2024-01-15T09:15:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799442003",
+    "title": "足球传球判断",
+    "content": "判断：脚内侧传球适合长距离传球。",
+    "type": "true_false",
+    "options": [
+      {
+        "text": "正确",
+        "isCorrect": false,
+        "explanation": "脚内侧传球主要用于短距离精确传球"
+      },
+      {
+        "text": "错误",
+        "isCorrect": true,
+        "explanation": "正确，脚内侧传球精度高但力量有限，适合短距离传球"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "脚内侧传球的特点是精确度高、控制性好，但传球力量相对较小，因此主要适用于短距离的精确传球。长距离传球通常使用脚背或脚弓传球。",
+    "category": {
+      "sport": "足球",
+      "knowledgeType": "技术",
+      "subCategory": "传球"
+    },
+    "tags": ["足球", "传球", "技术", "判断"],
+    "difficulty": "medium",
+    "media": {
+      "images": ["/images/questions/football_passing.jpg"],
+      "videos": [],
+      "audio": []
+    },
+    "stats": {
+      "totalAttempts": 156,
+      "correctAttempts": 124,
+      "accuracy": 79.49,
+      "averageTime": 15
+    },
+    "status": "published",
+    "creator": "507f1f77bcf86cd799439201",
+    "reviewedBy": "507f1f77bcf86cd799439101",
+    "reviewedAt": "2024-01-04T10:00:00.000Z",
+    "isAIGenerated": false,
+    "version": 1,
+    "createdAt": "2024-01-04T00:00:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799442004",
+    "title": "篮球投篮技术",
+    "content": "描述正确的篮球罚球姿势要点。",
+    "type": "case_analysis",
+    "options": [],
+    "correctAnswer": "标准答案要点：1.双脚与肩同宽站立；2.投篮手在球的正下方；3.辅助手在球的侧面；4.瞄准篮筐后沿；5.手腕下压完成投篮动作；6.保持良好的弧线。",
+    "explanation": "正确的罚球姿势是篮球基本功的重要组成部分。良好的站姿、正确的持球手型、准确的瞄准点和流畅的投篮动作是成功罚球的关键要素。",
+    "category": {
+      "sport": "篮球",
+      "knowledgeType": "技术",
+      "subCategory": "投篮"
+    },
+    "tags": ["篮球", "投篮", "罚球", "技术"],
+    "difficulty": "hard",
+    "media": {
+      "images": ["/images/questions/basketball_freethrow.jpg"],
+      "videos": ["/videos/questions/freethrow_technique.mp4"],
+      "audio": []
+    },
+    "stats": {
+      "totalAttempts": 98,
+      "correctAttempts": 56,
+      "accuracy": 57.14,
+      "averageTime": 45
+    },
+    "status": "published",
+    "creator": "507f1f77bcf86cd799439202",
+    "reviewedBy": "507f1f77bcf86cd799439101",
+    "reviewedAt": "2024-01-05T10:00:00.000Z",
+    "isAIGenerated": false,
+    "version": 1,
+    "createdAt": "2024-01-05T00:00:00.000Z",
+    "updatedAt": "2024-01-15T11:45:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799442005",
+    "title": "游泳安全知识",
+    "content": "游泳前的热身运动至少应进行______分钟，下水前应先______以适应水温。",
+    "type": "fill_blank",
+    "options": [],
+    "correctAnswer": ["5-10", "试水"],
+    "explanation": "游泳前进行5-10分钟的热身运动可以预防抽筋和运动伤害。下水前试水可以让身体逐渐适应水温，避免突然接触冷水造成的生理反应。",
+    "category": {
+      "sport": "游泳",
+      "knowledgeType": "安全",
+      "subCategory": "游泳准备"
+    },
+    "tags": ["游泳", "安全", "热身", "准备"],
+    "difficulty": "easy",
+    "media": {
+      "images": ["/images/questions/swimming_warmup.jpg"],
+      "videos": [],
+      "audio": []
+    },
+    "stats": {
+      "totalAttempts": 167,
+      "correctAttempts": 134,
+      "accuracy": 80.24,
+      "averageTime": 20
+    },
+    "status": "published",
+    "creator": "507f1f77bcf86cd799439201",
+    "reviewedBy": "507f1f77bcf86cd799439101",
+    "reviewedAt": "2024-01-06T10:00:00.000Z",
+    "isAIGenerated": false,
+    "version": 1,
+    "createdAt": "2024-01-06T00:00:00.000Z",
+    "updatedAt": "2024-01-15T12:20:00.000Z"
+  }
+] 

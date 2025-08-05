@@ -1,0 +1,16 @@
+{
+  "export_time": "2025-07-31 16:03:33",
+  "database_name": "sports_platform",
+  "connection_string": "mongodb://localhost:27017",
+  "collections": {
+    "institutions": {
+      "collection_name": "institutions",
+      "description": "机构数据",
+      "filename": "institutions_export.json",
+      "total_documents": 4,
+      "exported_documents": 4,
+      "errors": 0,
+      "success": true
+    }
+  }
+}

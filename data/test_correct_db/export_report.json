@@ -1,0 +1,16 @@
+{
+  "export_time": "2025-07-31 17:28:31",
+  "database_name": "sports_knowledge_platform",
+  "connection_string": "mongodb://localhost:27017",
+  "collections": {
+    "users": {
+      "collection_name": "users",
+      "description": "用户数据",
+      "filename": "users_export.json",
+      "total_documents": 18,
+      "exported_documents": 18,
+      "errors": 0,
+      "success": true
+    }
+  }
+}

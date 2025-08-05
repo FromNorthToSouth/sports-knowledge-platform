@@ -1,0 +1,29 @@
+{
+  "short_name": "体育题库平台",
+  "name": "中小学生体育知识题库平台",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "description": "专为中小学生设计的个性化体育知识智能化题库平台",
+  "lang": "zh-CN",
+  "categories": ["education", "sports", "learning"]
+} 

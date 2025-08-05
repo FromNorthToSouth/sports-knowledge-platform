@@ -1,0 +1,636 @@
+[
+  {
+    "_id": "688ae357eba441230bd31b1a",
+    "name": "测试学校",
+    "type": "high_school",
+    "description": "用于测试的高中学校",
+    "address": {
+      "country": "中国",
+      "province": "北京市",
+      "city": "北京市",
+      "district": "朝阳区",
+      "street": "测试街道123号",
+      "postalCode": "100000"
+    },
+    "contact": {
+      "phone": "010-12345678",
+      "email": "admin@testschool.com",
+      "website": "https://testschool.com"
+    },
+    "settings": {
+      "maxUsers": 1000,
+      "maxClasses": 100,
+      "maxStorage": 1024,
+      "enabledFeatures": [
+        "basic",
+        "analytics",
+        "collaboration",
+        "ai_features"
+      ],
+      "customization": {
+        "primaryColor": "#1890ff",
+        "theme": "default",
+        "logo": "",
+        "customCSS": ""
+      },
+      "permissions": {
+        "allowSelfRegistration": true,
+        "requireApproval": false,
+        "allowGuestAccess": false,
+        "defaultUserRole": "student"
+      },
+      "notification": {
+        "emailEnabled": true,
+        "smsEnabled": false,
+        "pushEnabled": true,
+        "defaultLanguage": "zh-CN"
+      }
+    },
+    "adminUsers": [
+      "688ae357eba441230bd31b1c"
+    ],
+    "status": "active",
+    "statistics": {
+      "totalUsers": 0,
+      "totalClasses": 0,
+      "totalQuestions": 0,
+      "storageUsed": 0,
+      "lastActivityAt": "2025-07-31 03:30:31.560000"
+    },
+    "createdBy": "688ae357eba441230bd31b1c",
+    "subscription": {
+      "plan": "free",
+      "status": "active",
+      "features": []
+    },
+    "createdAt": "2025-07-31 03:30:31.560000",
+    "updatedAt": "2025-07-31 03:30:31.560000",
+    "__v": 0
+  },
+  {
+    "_id": "688aeecab2c6bea977686d54",
+    "name": "系统管理机构",
+    "type": "other",
+    "description": "系统管理员专用机构",
+    "address": {
+      "country": "中国",
+      "province": "",
+      "city": "",
+      "district": "",
+      "street": "",
+      "postalCode": ""
+    },
+    "contact": {
+      "phone": "000-0000-0000",
+      "email": "admin@sportsplatform.com"
+    },
+    "settings": {
+      "maxUsers": 10000,
+      "maxClasses": 1000,
+      "maxStorage": 102400,
+      "enabledFeatures": [
+        "basic",
+        "analytics",
+        "collaboration",
+        "ai_features",
+        "video_learning",
+        "mobile_app",
+        "api_access",
+        "white_label"
+      ],
+      "customization": {
+        "logo": "",
+        "primaryColor": "#1890ff",
+        "theme": "default",
+        "customCSS": ""
+      },
+      "permissions": {
+        "allowSelfRegistration": false,
+        "requireApproval": false,
+        "allowGuestAccess": false,
+        "defaultUserRole": "student"
+      },
+      "notification": {
+        "emailEnabled": true,
+        "smsEnabled": true,
+        "pushEnabled": true,
+        "defaultLanguage": "zh-CN"
+      }
+    },
+    "adminUsers": [
+      "688aeecbb2c6bea977686d5f"
+    ],
+    "status": "active",
+    "statistics": {
+      "totalUsers": 0,
+      "totalClasses": 0,
+      "totalQuestions": 0,
+      "storageUsed": 0,
+      "lastActivityAt": "2025-07-31 04:19:22.967000"
+    },
+    "createdBy": "688aeecbb2c6bea977686d5f",
+    "subscription": {
+      "plan": "free",
+      "status": "active",
+      "features": []
+    },
+    "createdAt": "2025-07-31 04:19:22.967000",
+    "updatedAt": "2025-07-31 04:19:23.044000",
+    "__v": 0
+  },
+  {
+    "_id": "688af3bd46046db958c5f453",
+    "name": "融梦体育科技大学",
+    "type": "university",
+    "description": "专业的体育科技高等教育机构，致力于培养体育科技人才",
+    "address": {
+      "country": "中国",
+      "province": "北京市",
+      "city": "北京市",
+      "district": "海淀区",
+      "street": "融梦体育科技园区",
+      "postalCode": "100000"
+    },
+    "contact": {
+      "phone": "010-88888888",
+      "email": "admin@rongmeng大学.com",
+      "website": "https://www.rongmeng大学.com"
+    },
+    "settings": {
+      "maxUsers": 10000,
+      "maxClasses": 500,
+      "maxStorage": 10240,
+      "enabledFeatures": [
+        "basic",
+        "analytics",
+        "collaboration",
+        "ai_features",
+        "video_learning"
+      ],
+      "customization": {
+        "logo": "",
+        "primaryColor": "#1890ff",
+        "theme": "default",
+        "customCSS": ""
+      },
+      "permissions": {
+        "allowSelfRegistration": false,
+        "requireApproval": true,
+        "allowGuestAccess": false,
+        "defaultUserRole": "student"
+      },
+      "notification": {
+        "emailEnabled": true,
+        "smsEnabled": true,
+        "pushEnabled": true,
+        "defaultLanguage": "zh-CN"
+      }
+    },
+    "adminUsers": [
+      "688af3bd46046db958c5f45d"
+    ],
+    "status": "active",
+    "statistics": {
+      "totalUsers": 0,
+      "totalClasses": 0,
+      "totalQuestions": 0,
+      "storageUsed": 0,
+      "lastActivityAt": "2025-07-31 04:40:29.355000"
+    },
+    "createdBy": "688af3bd46046db958c5f45d",
+    "subscription": {
+      "plan": "free",
+      "status": "active",
+      "features": []
+    },
+    "createdAt": "2025-07-31 04:40:29.278000",
+    "updatedAt": "2025-07-31 04:40:29.355000",
+    "__v": 1
+  },
+  {
+    "_id": "688af42d322134e6c1baf1f9",
+    "name": "融梦体育科技中学",
+    "type": "high_school",
+    "description": "融合体育与科技的现代化中学教育，培养全面发展的中学生",
+    "address": {
+      "country": "中国",
+      "province": "北京市",
+      "city": "北京市",
+      "district": "海淀区",
+      "street": "融梦体育科技园区",
+      "postalCode": "100000"
+    },
+    "contact": {
+      "phone": "010-88888888",
+      "email": "admin@rongmeng中学.com",
+      "website": "https://www.rongmeng中学.com"
+    },
+    "settings": {
+      "maxUsers": 2000,
+      "maxClasses": 100,
+      "maxStorage": 5120,
+      "enabledFeatures": [
+        "basic",
+        "analytics",
+        "collaboration",
+        "ai_features",
+        "video_learning"
+      ],
+      "customization": {
+        "logo": "",
+        "primaryColor": "#1890ff",
+        "theme": "default",
+        "customCSS": ""
+      },
+      "permissions": {
+        "allowSelfRegistration": false,
+        "requireApproval": true,
+        "allowGuestAccess": false,
+        "defaultUserRole": "student"
+      },
+      "notification": {
+        "emailEnabled": true,
+        "smsEnabled": true,
+        "pushEnabled": true,
+        "defaultLanguage": "zh-CN"
+      }
+    },
+    "adminUsers": [
+      "688af42e322134e6c1baf205"
+    ],
+    "status": "active",
+    "statistics": {
+      "totalUsers": 0,
+      "totalClasses": 0,
+      "totalQuestions": 0,
+      "storageUsed": 0,
+      "lastActivityAt": "2025-07-31 04:42:22.036000"
+    },
+    "createdBy": "688af42e322134e6c1baf205",
+    "subscription": {
+      "plan": "free",
+      "status": "active",
+      "features": []
+    },
+    "createdAt": "2025-07-31 04:42:21.969000",
+    "updatedAt": "2025-07-31 04:42:22.036000",
+    "__v": 1
+  },
+  {
+    "_id": "688af42e322134e6c1baf218",
+    "name": "融梦体育科技小学",
+    "type": "primary_school",
+    "description": "以体育科技为特色的小学教育，注重学生兴趣培养和全面发展",
+    "address": {
+      "country": "中国",
+      "province": "北京市",
+      "city": "北京市",
+      "district": "海淀区",
+      "street": "融梦体育科技园区",
+      "postalCode": "100000"
+    },
+    "contact": {
+      "phone": "010-88888888",
+      "email": "admin@rongmeng小学.com",
+      "website": "https://www.rongmeng小学.com"
+    },
+    "settings": {
+      "maxUsers": 1000,
+      "maxClasses": 50,
+      "maxStorage": 5120,
+      "enabledFeatures": [
+        "basic",
+        "analytics",
+        "collaboration",
+        "ai_features",
+        "video_learning"
+      ],
+      "customization": {
+        "logo": "",
+        "primaryColor": "#1890ff",
+        "theme": "default",
+        "customCSS": ""
+      },
+      "permissions": {
+        "allowSelfRegistration": false,
+        "requireApproval": true,
+        "allowGuestAccess": false,
+        "defaultUserRole": "student"
+      },
+      "notification": {
+        "emailEnabled": true,
+        "smsEnabled": true,
+        "pushEnabled": true,
+        "defaultLanguage": "zh-CN"
+      }
+    },
+    "adminUsers": [
+      "688af42e322134e6c1baf21b"
+    ],
+    "status": "active",
+    "statistics": {
+      "totalUsers": 0,
+      "totalClasses": 0,
+      "totalQuestions": 0,
+      "storageUsed": 0,
+      "lastActivityAt": "2025-07-31 04:42:22.150000"
+    },
+    "createdBy": "688af42e322134e6c1baf21b",
+    "subscription": {
+      "plan": "free",
+      "status": "active",
+      "features": []
+    },
+    "createdAt": "2025-07-31 04:42:22.100000",
+    "updatedAt": "2025-07-31 04:42:22.150000",
+    "__v": 1
+  },
+  {
+    "_id": "507f1f77bcf86cd799439011",
+    "name": "北京体育大学",
+    "type": "university",
+    "description": "国内顶级体育高等学府，培养专业体育人才",
+    "address": {
+      "country": "中国",
+      "province": "北京市",
+      "city": "北京市",
+      "district": "海淀区",
+      "street": "信息路48号",
+      "postalCode": "100084"
+    },
+    "contact": {
+      "phone": "010-62989000",
+      "email": "admin@bsu.edu.cn",
+      "website": "https://www.bsu.edu.cn"
+    },
+    "settings": {
+      "maxUsers": 5000,
+      "maxClasses": 500,
+      "maxStorage": 10240,
+      "enabledFeatures": [
+        "basic",
+        "analytics",
+        "collaboration",
+        "ai_features",
+        "video_learning"
+      ],
+      "customization": {
+        "logo": "/images/institutions/bsu_logo.png",
+        "primaryColor": "#1890ff",
+        "theme": "default"
+      },
+      "permissions": {
+        "allowSelfRegistration": true,
+        "requireApproval": false,
+        "allowGuestAccess": false,
+        "defaultUserRole": "student"
+      },
+      "notification": {
+        "emailEnabled": true,
+        "smsEnabled": true,
+        "pushEnabled": true,
+        "defaultLanguage": "zh-CN"
+      }
+    },
+    "adminUsers": [
+      "507f1f77bcf86cd799439101"
+    ],
+    "status": "active",
+    "statistics": {
+      "totalUsers": 1256,
+      "totalClasses": 89,
+      "totalQuestions": 1520,
+      "storageUsed": 4512,
+      "lastActivityAt": "2024-01-15T08:00:00.000Z"
+    },
+    "createdBy": "507f1f77bcf86cd799439101",
+    "subscription": {
+      "plan": "premium",
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2024-12-31T23:59:59.000Z",
+      "status": "active",
+      "features": [
+        "basic",
+        "analytics",
+        "collaboration",
+        "ai_features",
+        "video_learning",
+        "api_access"
+      ]
+    },
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-15T08:00:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439012",
+    "name": "清华大学附属中学",
+    "type": "high_school",
+    "description": "知名重点中学，注重体育素质教育",
+    "address": {
+      "country": "中国",
+      "province": "北京市",
+      "city": "北京市",
+      "district": "海淀区",
+      "street": "中关村北大街清华园1号",
+      "postalCode": "100084"
+    },
+    "contact": {
+      "phone": "010-62770334",
+      "email": "admin@qhfz.edu.cn",
+      "website": "https://www.qhfz.edu.cn"
+    },
+    "settings": {
+      "maxUsers": 2000,
+      "maxClasses": 200,
+      "maxStorage": 5120,
+      "enabledFeatures": [
+        "basic",
+        "analytics",
+        "collaboration",
+        "video_learning"
+      ],
+      "customization": {
+        "logo": "/images/institutions/qhfz_logo.png",
+        "primaryColor": "#722ed1",
+        "theme": "default"
+      },
+      "permissions": {
+        "allowSelfRegistration": true,
+        "requireApproval": true,
+        "allowGuestAccess": false,
+        "defaultUserRole": "student"
+      },
+      "notification": {
+        "emailEnabled": true,
+        "smsEnabled": false,
+        "pushEnabled": true,
+        "defaultLanguage": "zh-CN"
+      }
+    },
+    "adminUsers": [
+      "507f1f77bcf86cd799439102"
+    ],
+    "status": "active",
+    "statistics": {
+      "totalUsers": 890,
+      "totalClasses": 45,
+      "totalQuestions": 856,
+      "storageUsed": 2156,
+      "lastActivityAt": "2024-01-15T09:30:00.000Z"
+    },
+    "createdBy": "507f1f77bcf86cd799439102",
+    "subscription": {
+      "plan": "basic",
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2024-12-31T23:59:59.000Z",
+      "status": "active",
+      "features": [
+        "basic",
+        "analytics",
+        "collaboration",
+        "video_learning"
+      ]
+    },
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-15T09:30:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439013",
+    "name": "上海市第一中学",
+    "type": "high_school",
+    "description": "历史悠久的重点中学，体育教育特色突出",
+    "address": {
+      "country": "中国",
+      "province": "上海市",
+      "city": "上海市",
+      "district": "黄浦区",
+      "street": "公园路10号",
+      "postalCode": "200001"
+    },
+    "contact": {
+      "phone": "021-63249086",
+      "email": "admin@sh1z.edu.cn",
+      "website": "https://www.sh1z.edu.cn"
+    },
+    "settings": {
+      "maxUsers": 1500,
+      "maxClasses": 150,
+      "maxStorage": 3072,
+      "enabledFeatures": [
+        "basic",
+        "analytics",
+        "video_learning"
+      ],
+      "customization": {
+        "logo": "/images/institutions/sh1z_logo.png",
+        "primaryColor": "#52c41a",
+        "theme": "default"
+      },
+      "permissions": {
+        "allowSelfRegistration": true,
+        "requireApproval": false,
+        "allowGuestAccess": false,
+        "defaultUserRole": "student"
+      },
+      "notification": {
+        "emailEnabled": true,
+        "smsEnabled": false,
+        "pushEnabled": true,
+        "defaultLanguage": "zh-CN"
+      }
+    },
+    "adminUsers": [
+      "507f1f77bcf86cd799439103"
+    ],
+    "status": "active",
+    "statistics": {
+      "totalUsers": 678,
+      "totalClasses": 36,
+      "totalQuestions": 542,
+      "storageUsed": 1847,
+      "lastActivityAt": "2024-01-15T10:15:00.000Z"
+    },
+    "createdBy": "507f1f77bcf86cd799439103",
+    "subscription": {
+      "plan": "basic",
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2024-12-31T23:59:59.000Z",
+      "status": "active",
+      "features": [
+        "basic",
+        "analytics",
+        "video_learning"
+      ]
+    },
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-15T10:15:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439014",
+    "name": "飞跃体育培训中心",
+    "type": "training_center",
+    "description": "专业体育培训机构，提供多项目体育训练",
+    "address": {
+      "country": "中国",
+      "province": "广东省",
+      "city": "深圳市",
+      "district": "南山区",
+      "street": "科技园南区深南大道9018号",
+      "postalCode": "518057"
+    },
+    "contact": {
+      "phone": "0755-26063456",
+      "email": "info@feiyue-sports.com",
+      "website": "https://www.feiyue-sports.com"
+    },
+    "settings": {
+      "maxUsers": 800,
+      "maxClasses": 80,
+      "maxStorage": 2048,
+      "enabledFeatures": [
+        "basic",
+        "video_learning"
+      ],
+      "customization": {
+        "logo": "/images/institutions/feiyue_logo.png",
+        "primaryColor": "#fa8c16",
+        "theme": "default"
+      },
+      "permissions": {
+        "allowSelfRegistration": true,
+        "requireApproval": true,
+        "allowGuestAccess": true,
+        "defaultUserRole": "student"
+      },
+      "notification": {
+        "emailEnabled": true,
+        "smsEnabled": true,
+        "pushEnabled": true,
+        "defaultLanguage": "zh-CN"
+      }
+    },
+    "adminUsers": [
+      "507f1f77bcf86cd799439104"
+    ],
+    "status": "active",
+    "statistics": {
+      "totalUsers": 425,
+      "totalClasses": 32,
+      "totalQuestions": 298,
+      "storageUsed": 876,
+      "lastActivityAt": "2024-01-15T11:45:00.000Z"
+    },
+    "createdBy": "507f1f77bcf86cd799439104",
+    "subscription": {
+      "plan": "free",
+      "startDate": "2024-01-01T00:00:00.000Z",
+      "endDate": "2024-12-31T23:59:59.000Z",
+      "status": "active",
+      "features": [
+        "basic"
+      ]
+    },
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-15T11:45:00.000Z"
+  }
+]

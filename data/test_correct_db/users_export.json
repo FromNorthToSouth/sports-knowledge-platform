@@ -1,0 +1,729 @@
+[
+  {
+    "_id": "688ae357eba441230bd31b1c",
+    "username": "系统管理员",
+    "email": "system@test.com",
+    "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "role": "admin",
+    "institution": "688ae357eba441230bd31b1a",
+    "learningStats": {
+      "totalQuestions": 0,
+      "correctAnswers": 0,
+      "accuracy": 0,
+      "totalTime": 0,
+      "totalExams": 0,
+      "passedExams": 0,
+      "continuousLoginDays": 0,
+      "lastLoginDate": "2025-07-31 03:30:31.452000"
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "medium",
+      "preferredSports": []
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 100,
+      "rulesUnderstanding": 100,
+      "technicalSkills": 100,
+      "historyKnowledge": 100,
+      "judgeAbility": 100,
+      "safetyAwareness": 100
+    },
+    "points": 0,
+    "achievements": [],
+    "isActive": true,
+    "createdAt": "2025-07-31 03:30:31.459000",
+    "updatedAt": "2025-07-31 03:30:31.459000",
+    "__v": 0
+  },
+  {
+    "_id": "688ae357eba441230bd31b32",
+    "username": "张老师",
+    "email": "teacher@test.com",
+    "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "phone": "13800138001",
+    "role": "teacher",
+    "institution": "688ae357eba441230bd31b1a",
+    "learningStats": {
+      "totalQuestions": 0,
+      "correctAnswers": 0,
+      "accuracy": 0,
+      "totalTime": 0,
+      "continuousLoginDays": 0,
+      "lastLoginDate": "2025-07-31 03:30:31.570000",
+      "totalExams": 0,
+      "passedExams": 0
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "medium",
+      "preferredSports": [
+        "足球",
+        "篮球"
+      ]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 80,
+      "rulesUnderstanding": 85,
+      "technicalSkills": 75,
+      "historyKnowledge": 70,
+      "judgeAbility": 90,
+      "safetyAwareness": 95
+    },
+    "points": 0,
+    "achievements": [],
+    "isActive": true,
+    "createdAt": "2025-07-31 03:30:31.572000",
+    "updatedAt": "2025-07-31 03:30:31.572000",
+    "__v": 0
+  },
+  {
+    "_id": "688ae3d547d209e84fd41092",
+    "username": "张三",
+    "email": "student1@test.com",
+    "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "role": "student",
+    "institution": "688ae357eba441230bd31b1a",
+    "grade": "高一",
+    "learningStats": {
+      "totalQuestions": 0,
+      "correctAnswers": 0,
+      "accuracy": 0,
+      "totalTime": 0,
+      "continuousLoginDays": 0,
+      "lastLoginDate": "2025-07-31 03:32:37.869000",
+      "totalExams": 0,
+      "passedExams": 0
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "medium",
+      "preferredSports": [
+        "足球",
+        "篮球"
+      ]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 58,
+      "rulesUnderstanding": 70,
+      "technicalSkills": 79,
+      "historyKnowledge": 65,
+      "judgeAbility": 79,
+      "safetyAwareness": 64
+    },
+    "points": 0,
+    "achievements": [],
+    "isActive": true,
+    "createdAt": "2025-07-31 03:32:37.871000",
+    "updatedAt": "2025-07-31 03:32:37.871000",
+    "__v": 0
+  },
+  {
+    "_id": "688ae3d547d209e84fd4109a",
+    "username": "李四",
+    "email": "student2@test.com",
+    "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "role": "student",
+    "institution": "688ae357eba441230bd31b1a",
+    "grade": "高一",
+    "learningStats": {
+      "totalQuestions": 0,
+      "correctAnswers": 0,
+      "accuracy": 0,
+      "totalTime": 0,
+      "continuousLoginDays": 0,
+      "lastLoginDate": "2025-07-31 03:32:37.899000",
+      "totalExams": 0,
+      "passedExams": 0
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "medium",
+      "preferredSports": [
+        "足球",
+        "篮球"
+      ]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 58,
+      "rulesUnderstanding": 59,
+      "technicalSkills": 72,
+      "historyKnowledge": 73,
+      "judgeAbility": 78,
+      "safetyAwareness": 60
+    },
+    "points": 0,
+    "achievements": [],
+    "isActive": true,
+    "createdAt": "2025-07-31 03:32:37.900000",
+    "updatedAt": "2025-07-31 03:32:37.900000",
+    "__v": 0
+  },
+  {
+    "_id": "688ae3d547d209e84fd410a1",
+    "username": "王五",
+    "email": "student3@test.com",
+    "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "role": "student",
+    "institution": "688ae357eba441230bd31b1a",
+    "grade": "高二",
+    "learningStats": {
+      "totalQuestions": 0,
+      "correctAnswers": 0,
+      "accuracy": 0,
+      "totalTime": 0,
+      "continuousLoginDays": 0,
+      "lastLoginDate": "2025-07-31 03:32:37.910000",
+      "totalExams": 0,
+      "passedExams": 0
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "medium",
+      "preferredSports": [
+        "足球",
+        "篮球"
+      ]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 75,
+      "rulesUnderstanding": 65,
+      "technicalSkills": 63,
+      "historyKnowledge": 57,
+      "judgeAbility": 73,
+      "safetyAwareness": 50
+    },
+    "points": 0,
+    "achievements": [],
+    "isActive": true,
+    "createdAt": "2025-07-31 03:32:37.910000",
+    "updatedAt": "2025-07-31 03:32:37.910000",
+    "__v": 0
+  },
+  {
+    "_id": "688ae3d547d209e84fd410a7",
+    "username": "赵六",
+    "email": "student4@test.com",
+    "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "role": "student",
+    "institution": "688ae357eba441230bd31b1a",
+    "grade": "高二",
+    "learningStats": {
+      "totalQuestions": 0,
+      "correctAnswers": 0,
+      "accuracy": 0,
+      "totalTime": 0,
+      "continuousLoginDays": 0,
+      "lastLoginDate": "2025-07-31 03:32:37.915000",
+      "totalExams": 0,
+      "passedExams": 0
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "medium",
+      "preferredSports": [
+        "足球",
+        "篮球"
+      ]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 66,
+      "rulesUnderstanding": 55,
+      "technicalSkills": 69,
+      "historyKnowledge": 66,
+      "judgeAbility": 65,
+      "safetyAwareness": 66
+    },
+    "points": 0,
+    "achievements": [],
+    "isActive": true,
+    "createdAt": "2025-07-31 03:32:37.915000",
+    "updatedAt": "2025-07-31 03:32:37.915000",
+    "__v": 0
+  },
+  {
+    "_id": "688ae3d547d209e84fd410af",
+    "username": "钱七",
+    "email": "student5@test.com",
+    "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "role": "student",
+    "institution": "688ae357eba441230bd31b1a",
+    "grade": "高三",
+    "learningStats": {
+      "totalQuestions": 0,
+      "correctAnswers": 0,
+      "accuracy": 0,
+      "totalTime": 0,
+      "continuousLoginDays": 0,
+      "lastLoginDate": "2025-07-31 03:32:37.920000",
+      "totalExams": 0,
+      "passedExams": 0
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "medium",
+      "preferredSports": [
+        "足球",
+        "篮球"
+      ]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 65,
+      "rulesUnderstanding": 73,
+      "technicalSkills": 59,
+      "historyKnowledge": 59,
+      "judgeAbility": 67,
+      "safetyAwareness": 77
+    },
+    "points": 0,
+    "achievements": [],
+    "isActive": true,
+    "createdAt": "2025-07-31 03:32:37.921000",
+    "updatedAt": "2025-07-31 03:32:37.921000",
+    "__v": 0
+  },
+  {
+    "_id": "688ae3d547d209e84fd410b5",
+    "username": "孙八",
+    "email": "student6@test.com",
+    "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "role": "student",
+    "institution": "688ae357eba441230bd31b1a",
+    "grade": "高三",
+    "learningStats": {
+      "totalQuestions": 0,
+      "correctAnswers": 0,
+      "accuracy": 0,
+      "totalTime": 0,
+      "continuousLoginDays": 0,
+      "lastLoginDate": "2025-07-31 03:32:37.926000",
+      "totalExams": 0,
+      "passedExams": 0
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "medium",
+      "preferredSports": [
+        "足球",
+        "篮球"
+      ]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 54,
+      "rulesUnderstanding": 54,
+      "technicalSkills": 59,
+      "historyKnowledge": 58,
+      "judgeAbility": 52,
+      "safetyAwareness": 56
+    },
+    "points": 0,
+    "achievements": [],
+    "isActive": true,
+    "createdAt": "2025-07-31 03:32:37.927000",
+    "updatedAt": "2025-07-31 03:32:37.927000",
+    "__v": 0
+  },
+  {
+    "_id": "688aeecbb2c6bea977686d5f",
+    "username": "superadmin",
+    "email": "admin@sportsplatform.com",
+    "password": "$2a$10$cDuIh8DbNgFCqhHHJlum2eSo6hJZ.q4IInXZAz6ssBijPJ5S7VrYK",
+    "phone": "13800138000",
+    "role": "super_admin",
+    "institution": "688aeecab2c6bea977686d54",
+    "learningStats": {
+      "totalQuestions": 0,
+      "correctAnswers": 0,
+      "accuracy": 0,
+      "totalTime": 0,
+      "totalExams": 0,
+      "passedExams": 0,
+      "continuousLoginDays": 0,
+      "lastLoginDate": "2025-07-31 07:55:40.462000"
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "adaptive",
+      "preferredSports": []
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 100,
+      "rulesUnderstanding": 100,
+      "technicalSkills": 100,
+      "historyKnowledge": 100,
+      "judgeAbility": 100,
+      "safetyAwareness": 100
+    },
+    "points": 10000,
+    "achievements": [],
+    "isActive": true,
+    "createdAt": "2025-07-31 04:19:23.042000",
+    "updatedAt": "2025-07-31 07:55:40.464000",
+    "__v": 0
+  },
+  {
+    "_id": "688aeed628fba8fdb309fc4c",
+    "username": "admin",
+    "email": "admin@test.com",
+    "password": "$2a$10$fAvHwCYhqtEOc8gQrksKj.9ytkYC31ubc5GfH1CtaedRsezR3T7Qe",
+    "role": "admin",
+    "institution": "688aeecab2c6bea977686d54",
+    "learningStats": {
+      "totalQuestions": 0,
+      "correctAnswers": 0,
+      "accuracy": 0,
+      "totalTime": 0,
+      "totalExams": 0,
+      "passedExams": 0,
+      "continuousLoginDays": 0,
+      "lastLoginDate": "2025-07-31 04:19:34.804000"
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "adaptive",
+      "preferredSports": []
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 90,
+      "rulesUnderstanding": 90,
+      "technicalSkills": 90,
+      "historyKnowledge": 90,
+      "judgeAbility": 90,
+      "safetyAwareness": 90
+    },
+    "points": 5000,
+    "achievements": [],
+    "isActive": true,
+    "createdAt": "2025-07-31 04:19:34.810000",
+    "updatedAt": "2025-07-31 04:19:34.810000",
+    "__v": 0
+  },
+  {
+    "_id": "688af3bd46046db958c5f45d",
+    "username": "李教授",
+    "email": "teacher@university.rongmeng.com",
+    "password": "$2a$10$D/AhpbyOgnt.yHusegkdkOYuCd0bnCsTkogU0CJxIlRYtjZThGH6m",
+    "phone": "13871384883",
+    "role": "teacher",
+    "institution": "688af3bd46046db958c5f453",
+    "learningStats": {
+      "totalQuestions": 0,
+      "correctAnswers": 0,
+      "accuracy": 0,
+      "totalTime": 0,
+      "totalExams": 0,
+      "passedExams": 0,
+      "continuousLoginDays": 0,
+      "lastLoginDate": "2025-07-31 04:40:29.351000"
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "medium",
+      "preferredSports": [
+        "足球",
+        "篮球",
+        "田径"
+      ]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 90,
+      "rulesUnderstanding": 95,
+      "technicalSkills": 85,
+      "historyKnowledge": 80,
+      "judgeAbility": 92,
+      "safetyAwareness": 98
+    },
+    "points": 1000,
+    "achievements": [],
+    "isActive": true,
+    "createdAt": "2025-07-31 04:40:29.352000",
+    "updatedAt": "2025-07-31 04:40:29.352000",
+    "__v": 0
+  },
+  {
+    "_id": "688af3bd46046db958c5f46a",
+    "username": "张大明",
+    "email": "student@university.rongmeng.com",
+    "password": "$2a$10$hJi.Ia/V27Tj3Zt4l4eMjOkZ1WnHld/UNXeFUgrjaS2bJ3O3LmNyG",
+    "phone": "13955005240",
+    "role": "student",
+    "institution": "688af3bd46046db958c5f453",
+    "grade": "大三",
+    "learningStats": {
+      "totalQuestions": 125,
+      "correctAnswers": 43,
+      "accuracy": 83,
+      "totalTime": 5564,
+      "totalExams": 7,
+      "passedExams": 5,
+      "continuousLoginDays": 9,
+      "lastLoginDate": "2025-07-31 04:40:29.411000"
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "medium",
+      "preferredSports": [
+        "足球",
+        "篮球"
+      ]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 81,
+      "rulesUnderstanding": 66,
+      "technicalSkills": 68,
+      "historyKnowledge": 61,
+      "judgeAbility": 63,
+      "safetyAwareness": 85
+    },
+    "points": 235,
+    "achievements": [],
+    "isActive": true,
+    "createdAt": "2025-07-31 04:40:29.413000",
+    "updatedAt": "2025-07-31 04:40:29.413000",
+    "__v": 0
+  },
+  {
+    "_id": "688af42e322134e6c1baf205",
+    "username": "王老师",
+    "email": "teacher@highschool.rongmeng.com",
+    "password": "$2a$10$zZsZgmUPGBpXW5UIrwL0reZ8/mOYVjg4.1xSCXoeyImwZaqCsYIGO",
+    "phone": "13803001903",
+    "role": "teacher",
+    "institution": "688af42d322134e6c1baf1f9",
+    "learningStats": {
+      "totalQuestions": 0,
+      "correctAnswers": 0,
+      "accuracy": 0,
+      "totalTime": 0,
+      "totalExams": 0,
+      "passedExams": 0,
+      "continuousLoginDays": 0,
+      "lastLoginDate": "2025-07-31 04:42:22.033000"
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "medium",
+      "preferredSports": [
+        "足球",
+        "篮球",
+        "田径"
+      ]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 90,
+      "rulesUnderstanding": 95,
+      "technicalSkills": 85,
+      "historyKnowledge": 80,
+      "judgeAbility": 92,
+      "safetyAwareness": 98
+    },
+    "points": 1000,
+    "achievements": [],
+    "isActive": true,
+    "createdAt": "2025-07-31 04:42:22.034000",
+    "updatedAt": "2025-07-31 04:42:22.034000",
+    "__v": 0
+  },
+  {
+    "_id": "688af42e322134e6c1baf20f",
+    "username": "李小华",
+    "email": "student@highschool.rongmeng.com",
+    "password": "$2a$10$qGecHz53YHNSQ/WvAqR7fOrMHx0IbZO4kYRktvSWj52S3OXrg5Cgu",
+    "phone": "13977081983",
+    "role": "student",
+    "institution": "688af42d322134e6c1baf1f9",
+    "grade": "高二",
+    "learningStats": {
+      "totalQuestions": 90,
+      "correctAnswers": 55,
+      "accuracy": 66,
+      "totalTime": 13511,
+      "totalExams": 8,
+      "passedExams": 10,
+      "continuousLoginDays": 6,
+      "lastLoginDate": "2025-07-31 04:42:22.086000"
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "medium",
+      "preferredSports": [
+        "足球",
+        "篮球"
+      ]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 82,
+      "rulesUnderstanding": 87,
+      "technicalSkills": 73,
+      "historyKnowledge": 69,
+      "judgeAbility": 74,
+      "safetyAwareness": 85
+    },
+    "points": 391,
+    "achievements": [],
+    "isActive": true,
+    "createdAt": "2025-07-31 04:42:22.087000",
+    "updatedAt": "2025-07-31 04:42:22.087000",
+    "__v": 0
+  },
+  {
+    "_id": "688af42e322134e6c1baf21b",
+    "username": "陈老师",
+    "email": "teacher@primary.rongmeng.com",
+    "password": "$2a$10$FZT5XnLA8uGlYSWeQfVeL.nMohF17gY6dXHI/bJOr9x6ASb4XvVoq",
+    "phone": "13854598436",
+    "role": "teacher",
+    "institution": "688af42e322134e6c1baf218",
+    "learningStats": {
+      "totalQuestions": 0,
+      "correctAnswers": 0,
+      "accuracy": 0,
+      "totalTime": 0,
+      "totalExams": 0,
+      "passedExams": 0,
+      "continuousLoginDays": 0,
+      "lastLoginDate": "2025-07-31 04:42:22.147000"
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "medium",
+      "preferredSports": [
+        "足球",
+        "篮球",
+        "田径"
+      ]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 90,
+      "rulesUnderstanding": 95,
+      "technicalSkills": 85,
+      "historyKnowledge": 80,
+      "judgeAbility": 92,
+      "safetyAwareness": 98
+    },
+    "points": 1000,
+    "achievements": [],
+    "isActive": true,
+    "createdAt": "2025-07-31 04:42:22.148000",
+    "updatedAt": "2025-07-31 04:42:22.148000",
+    "__v": 0
+  },
+  {
+    "_id": "688af42e322134e6c1baf21f",
+    "username": "刘小明",
+    "email": "student@primary.rongmeng.com",
+    "password": "$2a$10$koIdIuymgjKRIoM.2gvEsuhXJR/lDaemL24cgWVcHEGqLWMUavvuu",
+    "phone": "13979951856",
+    "role": "student",
+    "institution": "688af42e322134e6c1baf218",
+    "grade": "五年级",
+    "learningStats": {
+      "totalQuestions": 71,
+      "correctAnswers": 61,
+      "accuracy": 63,
+      "totalTime": 10447,
+      "totalExams": 5,
+      "passedExams": 7,
+      "continuousLoginDays": 6,
+      "lastLoginDate": "2025-07-31 04:42:22.198000"
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "medium",
+      "preferredSports": [
+        "足球",
+        "篮球"
+      ]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 76,
+      "rulesUnderstanding": 87,
+      "technicalSkills": 55,
+      "historyKnowledge": 67,
+      "judgeAbility": 83,
+      "safetyAwareness": 82
+    },
+    "points": 330,
+    "achievements": [],
+    "isActive": true,
+    "createdAt": "2025-07-31 04:42:22.199000",
+    "updatedAt": "2025-07-31 04:42:22.199000",
+    "__v": 0
+  },
+  {
+    "_id": "688b102e557ece46900cdea7",
+    "username": "test",
+    "email": "a@a.com",
+    "password": "$2a$10$Z3HzFOfJxq7zFSCU4IXI8uzo1Ro0AY6CtRu10cxCm4P4w.BY6USvK",
+    "phone": "18111111111",
+    "role": "student",
+    "institution": "688ae357eba441230bd31b1a",
+    "learningStats": {
+      "totalQuestions": 0,
+      "correctAnswers": 0,
+      "accuracy": 0,
+      "totalTime": 0,
+      "continuousLoginDays": 0,
+      "lastLoginDate": "2025-07-31 09:06:56.269000",
+      "totalExams": 0,
+      "passedExams": 0
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "adaptive",
+      "preferredSports": []
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 0,
+      "rulesUnderstanding": 0,
+      "technicalSkills": 0,
+      "historyKnowledge": 0,
+      "judgeAbility": 0,
+      "safetyAwareness": 0
+    },
+    "points": 0,
+    "achievements": [],
+    "isActive": true,
+    "createdAt": "2025-07-31 06:41:50.765000",
+    "updatedAt": "2025-07-31 09:06:56.275000",
+    "__v": 0
+  },
+  {
+    "_id": "688b1493df071b8fc909278b",
+    "username": "t222",
+    "email": "a1@a.com",
+    "password": "$2a$10$0kKwODIlJ0LQ.llOjqGYU.8AXc3wEnf1sbhbGAt4ZRFz/mCjkbYL.",
+    "phone": "17199999999",
+    "role": "teacher",
+    "institution": "688ae357eba441230bd31b1a",
+    "learningStats": {
+      "totalQuestions": 0,
+      "correctAnswers": 0,
+      "accuracy": 0,
+      "totalTime": 0,
+      "continuousLoginDays": 0,
+      "lastLoginDate": "2025-07-31 09:18:52.569000",
+      "totalExams": 0,
+      "passedExams": 0
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "adaptive",
+      "preferredSports": []
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 0,
+      "rulesUnderstanding": 0,
+      "technicalSkills": 0,
+      "historyKnowledge": 0,
+      "judgeAbility": 0,
+      "safetyAwareness": 0
+    },
+    "points": 0,
+    "achievements": [],
+    "isActive": true,
+    "createdAt": "2025-07-31 07:00:35.311000",
+    "updatedAt": "2025-07-31 09:18:52.570000",
+    "__v": 0
+  }
+]

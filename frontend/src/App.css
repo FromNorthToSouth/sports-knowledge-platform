@@ -1,0 +1,198 @@
+/* 全局样式 */
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* 自定义样式 */
+.ant-layout {
+  min-height: 100vh;
+}
+
+.site-layout-content {
+  min-height: 280px;
+  padding: 24px;
+  background: #fff;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .site-layout-content {
+    padding: 12px;
+  }
+}
+
+/* 自定义组件样式 */
+.loading-spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+.error-boundary {
+  padding: 20px;
+  text-align: center;
+}
+
+.question-card {
+  margin-bottom: 16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ability-radar {
+  margin: 20px 0;
+}
+
+.stats-card {
+  text-align: center;
+  padding: 20px;
+}
+
+.stats-number {
+  font-size: 2em;
+  font-weight: bold;
+  color: #1890ff;
+}
+
+.stats-label {
+  color: #666;
+  margin-top: 8px;
+}
+
+/* 题目练习相关样式 */
+.practice-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.question-content {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.question-options {
+  margin: 20px 0;
+}
+
+.question-explanation {
+  background-color: #f6ffed;
+  border-left: 3px solid #52c41a;
+  padding: 16px;
+  margin-top: 16px;
+}
+
+/* 管理后台样式 */
+.admin-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
+
+.data-table {
+  margin-top: 16px;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 8px;
+  justify-content: flex-end;
+  margin-bottom: 16px;
+}
+
+/* 用户头像和信息 */
+.user-info {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.user-avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
+
+/* 成就徽章 */
+.achievement-badge {
+  display: inline-block;
+  padding: 4px 8px;
+  background-color: #faad14;
+  color: white;
+  border-radius: 4px;
+  font-size: 12px;
+  margin: 2px;
+}
+
+/* 难度标签 */
+.difficulty-easy {
+  color: #52c41a;
+}
+
+.difficulty-medium {
+  color: #faad14;
+}
+
+.difficulty-hard {
+  color: #f5222d;
+}
+
+/* 状态标签 */
+.status-published {
+  color: #52c41a;
+}
+
+.status-draft {
+  color: #faad14;
+}
+
+.status-archived {
+  color: #8c8c8c;
+}
+
+/* 动画效果 */
+.fade-in {
+  animation: fadeIn 0.3s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+} 

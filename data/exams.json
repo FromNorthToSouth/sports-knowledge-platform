@@ -1,0 +1,321 @@
+[
+  {
+    "_id": "507f1f77bcf86cd799443001",
+    "title": "足球基础知识测试",
+    "description": "测试学生对足球基本规则和技巧的掌握程度",
+    "config": {
+      "timeLimit": 30,
+      "questionCount": 5,
+      "passingScore": 60,
+      "allowReview": true,
+      "randomOrder": false
+    },
+    "questionFilter": {
+      "sports": ["足球"],
+      "knowledgeTypes": ["规则", "技术"],
+      "difficulty": ["easy", "medium"],
+      "tags": ["足球", "基础"]
+    },
+    "user": "507f1f77bcf86cd799439301",
+    "status": "completed",
+    "startedAt": "2024-01-10T10:00:00.000Z",
+    "completedAt": "2024-01-10T10:25:00.000Z",
+    "answers": [
+      {
+        "questionId": "507f1f77bcf86cd799442001",
+        "userAnswer": 1,
+        "isCorrect": true,
+        "timeSpent": 12,
+        "submittedAt": "2024-01-10T10:05:00.000Z"
+      },
+      {
+        "questionId": "507f1f77bcf86cd799442002",
+        "userAnswer": [0, 1, 2],
+        "isCorrect": true,
+        "timeSpent": 18,
+        "submittedAt": "2024-01-10T10:10:00.000Z"
+      },
+      {
+        "questionId": "507f1f77bcf86cd799442003",
+        "userAnswer": 1,
+        "isCorrect": true,
+        "timeSpent": 15,
+        "submittedAt": "2024-01-10T10:15:00.000Z"
+      }
+    ],
+    "result": {
+      "score": 85,
+      "accuracy": 100,
+      "totalTime": 25,
+      "passed": true,
+      "rank": 1
+    },
+    "abilityAnalysis": {
+      "sportsKnowledge": 85,
+      "rulesUnderstanding": 90,
+      "technicalSkills": 80,
+      "historyKnowledge": 70,
+      "judgeAbility": 75,
+      "safetyAwareness": 95
+    },
+    "weaknessAnalysis": {
+      "categories": [],
+      "tags": ["历史"],
+      "difficulties": []
+    },
+    "examType": "practice",
+    "createdAt": "2024-01-10T09:30:00.000Z",
+    "updatedAt": "2024-01-10T10:25:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799443002",
+    "title": "足球技术能力测试",
+    "description": "深入测试学生对足球技术细节的理解",
+    "config": {
+      "timeLimit": 20,
+      "questionCount": 3,
+      "passingScore": 70,
+      "allowReview": true,
+      "randomOrder": false
+    },
+    "questionFilter": {
+      "sports": ["足球"],
+      "knowledgeTypes": ["技术"],
+      "difficulty": ["medium", "hard"],
+      "tags": ["足球", "技术"]
+    },
+    "user": "507f1f77bcf86cd799439301",
+    "status": "completed",
+    "startedAt": "2024-01-12T14:00:00.000Z",
+    "completedAt": "2024-01-12T14:18:00.000Z",
+    "answers": [
+      {
+        "questionId": "507f1f77bcf86cd799442002",
+        "userAnswer": [0, 1],
+        "isCorrect": false,
+        "timeSpent": 20,
+        "submittedAt": "2024-01-12T14:08:00.000Z"
+      },
+      {
+        "questionId": "507f1f77bcf86cd799442003",
+        "userAnswer": 0,
+        "isCorrect": false,
+        "timeSpent": 18,
+        "submittedAt": "2024-01-12T14:15:00.000Z"
+      }
+    ],
+    "result": {
+      "score": 45,
+      "accuracy": 33.33,
+      "totalTime": 18,
+      "passed": false,
+      "rank": 8
+    },
+    "abilityAnalysis": {
+      "sportsKnowledge": 65,
+      "rulesUnderstanding": 75,
+      "technicalSkills": 55,
+      "historyKnowledge": 60,
+      "judgeAbility": 70,
+      "safetyAwareness": 85
+    },
+    "weaknessAnalysis": {
+      "categories": ["足球-技术"],
+      "tags": ["传球", "颠球"],
+      "difficulties": ["medium"]
+    },
+    "examType": "practice",
+    "createdAt": "2024-01-12T13:30:00.000Z",
+    "updatedAt": "2024-01-12T14:18:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799443003",
+    "title": "篮球基础测试",
+    "description": "篮球基础知识和技术测试",
+    "config": {
+      "timeLimit": 25,
+      "questionCount": 2,
+      "passingScore": 60,
+      "allowReview": true,
+      "randomOrder": false
+    },
+    "questionFilter": {
+      "sports": ["篮球"],
+      "knowledgeTypes": ["技术"],
+      "difficulty": ["medium", "hard"],
+      "tags": ["篮球", "投篮"]
+    },
+    "user": "507f1f77bcf86cd799439301",
+    "status": "completed",
+    "startedAt": "2024-01-14T16:00:00.000Z",
+    "completedAt": "2024-01-14T16:20:00.000Z",
+    "answers": [
+      {
+        "questionId": "507f1f77bcf86cd799442004",
+        "userAnswer": "双脚与肩同宽，投篮手在球下方，瞄准篮筐",
+        "isCorrect": false,
+        "timeSpent": 45,
+        "submittedAt": "2024-01-14T16:15:00.000Z"
+      }
+    ],
+    "result": {
+      "score": 40,
+      "accuracy": 50,
+      "totalTime": 20,
+      "passed": false,
+      "rank": 12
+    },
+    "abilityAnalysis": {
+      "sportsKnowledge": 70,
+      "rulesUnderstanding": 80,
+      "technicalSkills": 45,
+      "historyKnowledge": 65,
+      "judgeAbility": 60,
+      "safetyAwareness": 75
+    },
+    "weaknessAnalysis": {
+      "categories": ["篮球-技术"],
+      "tags": ["投篮", "罚球"],
+      "difficulties": ["hard"]
+    },
+    "examType": "practice",
+    "createdAt": "2024-01-14T15:30:00.000Z",
+    "updatedAt": "2024-01-14T16:20:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799443004",
+    "title": "游泳安全知识测试",
+    "description": "测试学生对游泳安全知识的掌握",
+    "config": {
+      "timeLimit": 15,
+      "questionCount": 2,
+      "passingScore": 70,
+      "allowReview": true,
+      "randomOrder": false
+    },
+    "questionFilter": {
+      "sports": ["游泳"],
+      "knowledgeTypes": ["安全"],
+      "difficulty": ["easy"],
+      "tags": ["游泳", "安全", "热身"]
+    },
+    "user": "507f1f77bcf86cd799439301",
+    "status": "completed",
+    "startedAt": "2024-01-13T11:00:00.000Z",
+    "completedAt": "2024-01-13T11:12:00.000Z",
+    "answers": [
+      {
+        "questionId": "507f1f77bcf86cd799442005",
+        "userAnswer": ["5-10", "试水"],
+        "isCorrect": true,
+        "timeSpent": 20,
+        "submittedAt": "2024-01-13T11:10:00.000Z"
+      }
+    ],
+    "result": {
+      "score": 90,
+      "accuracy": 100,
+      "totalTime": 12,
+      "passed": true,
+      "rank": 2
+    },
+    "abilityAnalysis": {
+      "sportsKnowledge": 80,
+      "rulesUnderstanding": 85,
+      "technicalSkills": 70,
+      "historyKnowledge": 75,
+      "judgeAbility": 65,
+      "safetyAwareness": 95
+    },
+    "weaknessAnalysis": {
+      "categories": [],
+      "tags": [],
+      "difficulties": []
+    },
+    "examType": "practice",
+    "createdAt": "2024-01-13T10:30:00.000Z",
+    "updatedAt": "2024-01-13T11:12:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799443005",
+    "title": "体育综合知识测试",
+    "description": "综合测试学生的体育知识水平",
+    "config": {
+      "timeLimit": 40,
+      "questionCount": 5,
+      "passingScore": 60,
+      "allowReview": true,
+      "randomOrder": true
+    },
+    "questionFilter": {
+      "sports": ["足球", "篮球", "游泳"],
+      "knowledgeTypes": ["规则", "技术", "安全"],
+      "difficulty": ["easy", "medium", "hard"],
+      "tags": []
+    },
+    "user": "507f1f77bcf86cd799439302",
+    "status": "completed",
+    "startedAt": "2024-01-15T09:00:00.000Z",
+    "completedAt": "2024-01-15T09:35:00.000Z",
+    "answers": [
+      {
+        "questionId": "507f1f77bcf86cd799442001",
+        "userAnswer": 1,
+        "isCorrect": true,
+        "timeSpent": 10,
+        "submittedAt": "2024-01-15T09:05:00.000Z"
+      },
+      {
+        "questionId": "507f1f77bcf86cd799442002",
+        "userAnswer": [0, 1, 2],
+        "isCorrect": true,
+        "timeSpent": 15,
+        "submittedAt": "2024-01-15T09:12:00.000Z"
+      },
+      {
+        "questionId": "507f1f77bcf86cd799442003",
+        "userAnswer": 1,
+        "isCorrect": true,
+        "timeSpent": 12,
+        "submittedAt": "2024-01-15T09:18:00.000Z"
+      },
+      {
+        "questionId": "507f1f77bcf86cd799442004",
+        "userAnswer": "双脚站立，投篮手在球正下方，辅助手侧面，瞄准篮筐后沿，手腕下压，保持弧线",
+        "isCorrect": true,
+        "timeSpent": 50,
+        "submittedAt": "2024-01-15T09:28:00.000Z"
+      },
+      {
+        "questionId": "507f1f77bcf86cd799442005",
+        "userAnswer": ["10", "适应水温"],
+        "isCorrect": false,
+        "timeSpent": 25,
+        "submittedAt": "2024-01-15T09:33:00.000Z"
+      }
+    ],
+    "result": {
+      "score": 80,
+      "accuracy": 80,
+      "totalTime": 35,
+      "passed": true,
+      "rank": 3
+    },
+    "abilityAnalysis": {
+      "sportsKnowledge": 85,
+      "rulesUnderstanding": 90,
+      "technicalSkills": 80,
+      "historyKnowledge": 75,
+      "judgeAbility": 70,
+      "safetyAwareness": 85
+    },
+    "weaknessAnalysis": {
+      "categories": ["游泳-安全"],
+      "tags": ["热身", "准备"],
+      "difficulties": ["easy"]
+    },
+    "examType": "mock_exam",
+    "createdAt": "2024-01-15T08:30:00.000Z",
+    "updatedAt": "2024-01-15T09:35:00.000Z"
+  }
+] 

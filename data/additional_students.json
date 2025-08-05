@@ -1,0 +1,322 @@
+[
+  {
+    "_id": "507f1f77bcf86cd799439304",
+    "username": "student_zhang",
+    "email": "zhang.san@student.bsu.edu.cn",
+    "password": "$2b$10$n/qzcePZ476CjkWBTNFsZe3RbOHt7JTnYkeRGLGTwel6GTxcjbv6C",
+    "phone": "13777777004",
+    "avatar": "/images/avatars/student_zhang.png",
+    "role": "student",
+    "institution": "507f1f77bcf86cd799439011",
+    "grade": "大一",
+    "classInfo": "体育教育1班",
+    "learningStats": {
+      "totalQuestions": 89,
+      "correctAnswers": 67,
+      "accuracy": 75.28,
+      "totalTime": 1780,
+      "totalExams": 6,
+      "passedExams": 5,
+      "continuousLoginDays": 10,
+      "lastLoginDate": "2024-01-15T14:20:00.000Z"
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "medium",
+      "preferredSports": ["篮球", "网球"]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 70,
+      "rulesUnderstanding": 73,
+      "technicalSkills": 68,
+      "historyKnowledge": 65,
+      "judgeAbility": 69,
+      "safetyAwareness": 80
+    },
+    "points": 1780,
+    "achievements": ["新手上路", "积极参与者"],
+    "isActive": true,
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-15T14:20:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439305",
+    "username": "student_li",
+    "email": "li.si@student.bsu.edu.cn",
+    "password": "$2b$10$n/qzcePZ476CjkWBTNFsZe3RbOHt7JTnYkeRGLGTwel6GTxcjbv6C",
+    "phone": "13777777005",
+    "avatar": "/images/avatars/student_li.png",
+    "role": "student",
+    "institution": "507f1f77bcf86cd799439011",
+    "grade": "大一",
+    "classInfo": "体育教育1班",
+    "learningStats": {
+      "totalQuestions": 123,
+      "correctAnswers": 98,
+      "accuracy": 79.67,
+      "totalTime": 2100,
+      "totalExams": 7,
+      "passedExams": 6,
+      "continuousLoginDays": 14,
+      "lastLoginDate": "2024-01-15T15:10:00.000Z"
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "adaptive",
+      "preferredSports": ["足球", "田径"]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 76,
+      "rulesUnderstanding": 78,
+      "technicalSkills": 74,
+      "historyKnowledge": 71,
+      "judgeAbility": 75,
+      "safetyAwareness": 83
+    },
+    "points": 2460,
+    "achievements": ["新手上路", "学习达人", "进步之星"],
+    "isActive": true,
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-15T15:10:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439306",
+    "username": "student_wu",
+    "email": "wu.gang@student.bsu.edu.cn",
+    "password": "$2b$10$n/qzcePZ476CjkWBTNFsZe3RbOHt7JTnYkeRGLGTwel6GTxcjbv6C",
+    "phone": "13777777006",
+    "avatar": "/images/avatars/student_wu.png",
+    "role": "student",
+    "institution": "507f1f77bcf86cd799439011",
+    "grade": "大二",
+    "classInfo": "体育教育2班",
+    "learningStats": {
+      "totalQuestions": 142,
+      "correctAnswers": 108,
+      "accuracy": 76.06,
+      "totalTime": 2530,
+      "totalExams": 9,
+      "passedExams": 7,
+      "continuousLoginDays": 18,
+      "lastLoginDate": "2024-01-15T16:00:00.000Z"
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "hard",
+      "preferredSports": ["游泳", "田径"]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 79,
+      "rulesUnderstanding": 81,
+      "technicalSkills": 77,
+      "historyKnowledge": 74,
+      "judgeAbility": 78,
+      "safetyAwareness": 86
+    },
+    "points": 2840,
+    "achievements": ["新手上路", "学习标兵", "知识探索者"],
+    "isActive": true,
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2024-01-15T16:00:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439307",
+    "username": "student_zhao",
+    "email": "zhao.min@student.bsu.edu.cn",
+    "password": "$2b$10$n/qzcePZ476CjkWBTNFsZe3RbOHt7JTnYkeRGLGTwel6GTxcjbv6C",
+    "phone": "13777777007",
+    "avatar": "/images/avatars/student_zhao.png",
+    "role": "student",
+    "institution": "507f1f77bcf86cd799439011",
+    "grade": "大二",
+    "classInfo": "体育教育2班",
+    "learningStats": {
+      "totalQuestions": 167,
+      "correctAnswers": 134,
+      "accuracy": 80.24,
+      "totalTime": 2890,
+      "totalExams": 10,
+      "passedExams": 8,
+      "continuousLoginDays": 21,
+      "lastLoginDate": "2024-01-15T17:30:00.000Z"
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "adaptive",
+      "preferredSports": ["排球", "羽毛球"]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 82,
+      "rulesUnderstanding": 84,
+      "technicalSkills": 79,
+      "historyKnowledge": 77,
+      "judgeAbility": 81,
+      "safetyAwareness": 88
+    },
+    "points": 3340,
+    "achievements": ["新手上路", "学习达人", "优秀学员"],
+    "isActive": true,
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2024-01-15T17:30:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439308",
+    "username": "student_qian",
+    "email": "qian.jing@student.bsu.edu.cn",
+    "password": "$2b$10$n/qzcePZ476CjkWBTNFsZe3RbOHt7JTnYkeRGLGTwel6GTxcjbv6C",
+    "phone": "13777777008",
+    "avatar": "/images/avatars/student_qian.png",
+    "role": "student",
+    "institution": "507f1f77bcf86cd799439011",
+    "grade": "大一",
+    "classInfo": "运动训练1班",
+    "learningStats": {
+      "totalQuestions": 95,
+      "correctAnswers": 71,
+      "accuracy": 74.74,
+      "totalTime": 1680,
+      "totalExams": 6,
+      "passedExams": 4,
+      "continuousLoginDays": 9,
+      "lastLoginDate": "2024-01-15T18:15:00.000Z"
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "medium",
+      "preferredSports": ["田径", "健身"]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 71,
+      "rulesUnderstanding": 74,
+      "technicalSkills": 69,
+      "historyKnowledge": 67,
+      "judgeAbility": 72,
+      "safetyAwareness": 81
+    },
+    "points": 1900,
+    "achievements": ["新手上路", "坚持不懈"],
+    "isActive": true,
+    "createdAt": "2024-01-04T00:00:00.000Z",
+    "updatedAt": "2024-01-15T18:15:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439309",
+    "username": "student_sun",
+    "email": "sun.lei@student.bsu.edu.cn",
+    "password": "$2b$10$n/qzcePZ476CjkWBTNFsZe3RbOHt7JTnYkeRGLGTwel6GTxcjbv6C",
+    "phone": "13777777009",
+    "avatar": "/images/avatars/student_sun.png",
+    "role": "student",
+    "institution": "507f1f77bcf86cd799439011",
+    "grade": "大一",
+    "classInfo": "运动训练1班",
+    "learningStats": {
+      "totalQuestions": 108,
+      "correctAnswers": 87,
+      "accuracy": 80.56,
+      "totalTime": 1920,
+      "totalExams": 7,
+      "passedExams": 6,
+      "continuousLoginDays": 13,
+      "lastLoginDate": "2024-01-15T19:00:00.000Z"
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "adaptive",
+      "preferredSports": ["足球", "篮球"]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 77,
+      "rulesUnderstanding": 79,
+      "technicalSkills": 75,
+      "historyKnowledge": 72,
+      "judgeAbility": 76,
+      "safetyAwareness": 84
+    },
+    "points": 2160,
+    "achievements": ["新手上路", "进步之星", "团队合作者"],
+    "isActive": true,
+    "createdAt": "2024-01-04T00:00:00.000Z",
+    "updatedAt": "2024-01-15T19:00:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439310",
+    "username": "student_zhou",
+    "email": "zhou.fang@student.bsu.edu.cn",
+    "password": "$2b$10$n/qzcePZ476CjkWBTNFsZe3RbOHt7JTnYkeRGLGTwel6GTxcjbv6C",
+    "phone": "13777777010",
+    "avatar": "/images/avatars/student_zhou.png",
+    "role": "student",
+    "institution": "507f1f77bcf86cd799439011",
+    "grade": "大二",
+    "classInfo": "运动训练2班",
+    "learningStats": {
+      "totalQuestions": 134,
+      "correctAnswers": 103,
+      "accuracy": 76.87,
+      "totalTime": 2340,
+      "totalExams": 8,
+      "passedExams": 6,
+      "continuousLoginDays": 16,
+      "lastLoginDate": "2024-01-15T20:10:00.000Z"
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "hard",
+      "preferredSports": ["游泳", "网球"]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 74,
+      "rulesUnderstanding": 76,
+      "technicalSkills": 72,
+      "historyKnowledge": 70,
+      "judgeAbility": 74,
+      "safetyAwareness": 82
+    },
+    "points": 2680,
+    "achievements": ["新手上路", "学习达人", "挑战者"],
+    "isActive": true,
+    "createdAt": "2024-01-05T00:00:00.000Z",
+    "updatedAt": "2024-01-15T20:10:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439311",
+    "username": "student_wu2",
+    "email": "wu.mei@student.bsu.edu.cn",
+    "password": "$2b$10$n/qzcePZ476CjkWBTNFsZe3RbOHt7JTnYkeRGLGTwel6GTxcjbv6C",
+    "phone": "13777777011",
+    "avatar": "/images/avatars/student_wu2.png",
+    "role": "student",
+    "institution": "507f1f77bcf86cd799439011",
+    "grade": "大二",
+    "classInfo": "运动训练2班",
+    "learningStats": {
+      "totalQuestions": 156,
+      "correctAnswers": 119,
+      "accuracy": 76.28,
+      "totalTime": 2680,
+      "totalExams": 9,
+      "passedExams": 7,
+      "continuousLoginDays": 19,
+      "lastLoginDate": "2024-01-15T21:00:00.000Z"
+    },
+    "settings": {
+      "notifications": true,
+      "difficulty": "adaptive",
+      "preferredSports": ["排球", "田径"]
+    },
+    "abilityProfile": {
+      "sportsKnowledge": 78,
+      "rulesUnderstanding": 80,
+      "technicalSkills": 76,
+      "historyKnowledge": 73,
+      "judgeAbility": 77,
+      "safetyAwareness": 85
+    },
+    "points": 2920,
+    "achievements": ["新手上路", "学习标兵", "持之以恒"],
+    "isActive": true,
+    "createdAt": "2024-01-05T00:00:00.000Z",
+    "updatedAt": "2024-01-15T21:00:00.000Z"
+  }
+] 

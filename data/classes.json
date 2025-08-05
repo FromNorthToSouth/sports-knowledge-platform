@@ -1,0 +1,282 @@
+[
+  {
+    "_id": "507f1f77bcf86cd799440001",
+    "name": "体育教育1班",
+    "grade": "大一",
+    "description": "体育教育专业大一班级，专注于体育教学理论和实践技能的基础培养",
+    "institutionId": "507f1f77bcf86cd799439011",
+    "teacherId": "507f1f77bcf86cd799439201",
+    "teacherName": "teacher_zhang",
+    "capacity": 35,
+    "status": "active",
+    "students": [
+      {
+        "userId": "507f1f77bcf86cd799439304",
+        "username": "student_zhang",
+        "email": "zhang.san@student.bsu.edu.cn",
+        "enrollDate": "2024-01-02T00:00:00.000Z",
+        "status": "active",
+        "grade": "大一"
+      },
+      {
+        "userId": "507f1f77bcf86cd799439305",
+        "username": "student_li",
+        "email": "li.si@student.bsu.edu.cn",
+        "enrollDate": "2024-01-02T00:00:00.000Z",
+        "status": "active",
+        "grade": "大一"
+      }
+    ],
+    "schedule": {
+      "startDate": "2024-01-15T00:00:00.000Z",
+      "endDate": "2024-06-30T23:59:59.000Z",
+      "classTime": "周一、周三、周五 14:00-16:00",
+      "location": "体育馆A区"
+    },
+    "settings": {
+      "allowSelfEnroll": false,
+      "requireApproval": true,
+      "enabledFeatures": ["practice", "exam", "discussion", "progress_tracking"],
+      "notificationSettings": {
+        "assignmentReminders": true,
+        "gradeUpdates": true,
+        "announcements": true
+      }
+    },
+    "curriculum": {
+      "subjects": ["足球基础", "田径训练", "体育教学法", "运动解剖学"],
+      "objectives": [
+        "掌握基本体育技能",
+        "了解体育教学理论",
+        "培养运动习惯",
+        "提升身体素质"
+      ]
+    },
+    "statistics": {
+      "totalStudents": 2,
+      "activeStudents": 2,
+      "averageProgress": 75.0,
+      "completionRate": 70.0,
+      "averageScore": 77.5
+    },
+    "metadata": {
+      "createdBy": "507f1f77bcf86cd799439201",
+      "createdAt": "2024-01-15T00:00:00.000Z",
+      "updatedAt": "2024-01-15T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "507f1f77bcf86cd799440002",
+    "name": "体育教育2班",
+    "grade": "大二",
+    "description": "体育教育专业大二班级，深化体育专业知识，强化教学实践能力",
+    "institutionId": "507f1f77bcf86cd799439011",
+    "teacherId": "507f1f77bcf86cd799439201",
+    "teacherName": "teacher_zhang",
+    "capacity": 35,
+    "status": "active",
+    "students": [
+      {
+        "userId": "507f1f77bcf86cd799439301",
+        "username": "student_wang",
+        "email": "wang.xiaoming@student.bsu.edu.cn",
+        "enrollDate": "2024-01-01T00:00:00.000Z",
+        "status": "active",
+        "grade": "大二"
+      },
+      {
+        "userId": "507f1f77bcf86cd799439306",
+        "username": "student_wu",
+        "email": "wu.gang@student.bsu.edu.cn",
+        "enrollDate": "2024-01-03T00:00:00.000Z",
+        "status": "active",
+        "grade": "大二"
+      },
+      {
+        "userId": "507f1f77bcf86cd799439307",
+        "username": "student_zhao",
+        "email": "zhao.min@student.bsu.edu.cn",
+        "enrollDate": "2024-01-03T00:00:00.000Z",
+        "status": "active",
+        "grade": "大二"
+      }
+    ],
+    "schedule": {
+      "startDate": "2024-01-15T00:00:00.000Z",
+      "endDate": "2024-06-30T23:59:59.000Z",
+      "classTime": "周二、周四、周六 14:00-16:00",
+      "location": "体育馆B区"
+    },
+    "settings": {
+      "allowSelfEnroll": false,
+      "requireApproval": true,
+      "enabledFeatures": ["practice", "exam", "discussion", "progress_tracking", "group_study"],
+      "notificationSettings": {
+        "assignmentReminders": true,
+        "gradeUpdates": true,
+        "announcements": true
+      }
+    },
+    "curriculum": {
+      "subjects": ["高级体育技能", "体育心理学", "运动训练学", "体育课程设计"],
+      "objectives": [
+        "精通专项体育技能",
+        "掌握体育教学设计",
+        "理解运动心理规律",
+        "培养创新教学能力"
+      ]
+    },
+    "statistics": {
+      "totalStudents": 3,
+      "activeStudents": 3,
+      "averageProgress": 78.5,
+      "completionRate": 75.0,
+      "averageScore": 77.1
+    },
+    "metadata": {
+      "createdBy": "507f1f77bcf86cd799439201",
+      "createdAt": "2024-01-15T00:00:00.000Z",
+      "updatedAt": "2024-01-15T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "507f1f77bcf86cd799440003",
+    "name": "运动训练1班",
+    "grade": "大一",
+    "description": "运动训练专业大一班级，专注于专项运动技能训练和基础理论学习",
+    "institutionId": "507f1f77bcf86cd799439011",
+    "teacherId": "507f1f77bcf86cd799439202",
+    "teacherName": "teacher_li",
+    "capacity": 30,
+    "status": "active",
+    "students": [
+      {
+        "userId": "507f1f77bcf86cd799439302",
+        "username": "student_liu",
+        "email": "liu.xiaohua@student.bsu.edu.cn",
+        "enrollDate": "2024-01-05T00:00:00.000Z",
+        "status": "active",
+        "grade": "大一"
+      },
+      {
+        "userId": "507f1f77bcf86cd799439308",
+        "username": "student_qian",
+        "email": "qian.jing@student.bsu.edu.cn",
+        "enrollDate": "2024-01-04T00:00:00.000Z",
+        "status": "active",
+        "grade": "大一"
+      },
+      {
+        "userId": "507f1f77bcf86cd799439309",
+        "username": "student_sun",
+        "email": "sun.lei@student.bsu.edu.cn",
+        "enrollDate": "2024-01-04T00:00:00.000Z",
+        "status": "active",
+        "grade": "大一"
+      }
+    ],
+    "schedule": {
+      "startDate": "2024-01-15T00:00:00.000Z",
+      "endDate": "2024-06-30T23:59:59.000Z",
+      "classTime": "周一、周三、周五 16:00-18:00",
+      "location": "运动场田径区"
+    },
+    "settings": {
+      "allowSelfEnroll": false,
+      "requireApproval": true,
+      "enabledFeatures": ["practice", "exam", "performance_tracking", "training_plan"],
+      "notificationSettings": {
+        "assignmentReminders": true,
+        "gradeUpdates": true,
+        "announcements": true
+      }
+    },
+    "curriculum": {
+      "subjects": ["专项技术训练", "运动生理学", "体能训练", "竞赛规则"],
+      "objectives": [
+        "掌握专项运动技能",
+        "提升身体素质",
+        "了解训练原理",
+        "培养竞技精神"
+      ]
+    },
+    "statistics": {
+      "totalStudents": 3,
+      "activeStudents": 3,
+      "averageProgress": 79.7,
+      "completionRate": 72.0,
+      "averageScore": 79.7
+    },
+    "metadata": {
+      "createdBy": "507f1f77bcf86cd799439202",
+      "createdAt": "2024-01-15T00:00:00.000Z",
+      "updatedAt": "2024-01-15T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "507f1f77bcf86cd799440004",
+    "name": "运动训练2班",
+    "grade": "大二",
+    "description": "运动训练专业大二班级，强化专项训练，提升竞技水平和执教能力",
+    "institutionId": "507f1f77bcf86cd799439011",
+    "teacherId": "507f1f77bcf86cd799439202",
+    "teacherName": "teacher_li",
+    "capacity": 30,
+    "status": "active",
+    "students": [
+      {
+        "userId": "507f1f77bcf86cd799439310",
+        "username": "student_zhou",
+        "email": "zhou.fang@student.bsu.edu.cn",
+        "enrollDate": "2024-01-05T00:00:00.000Z",
+        "status": "active",
+        "grade": "大二"
+      },
+      {
+        "userId": "507f1f77bcf86cd799439311",
+        "username": "student_wu2",
+        "email": "wu.mei@student.bsu.edu.cn",
+        "enrollDate": "2024-01-05T00:00:00.000Z",
+        "status": "active",
+        "grade": "大二"
+      }
+    ],
+    "schedule": {
+      "startDate": "2024-01-15T00:00:00.000Z",
+      "endDate": "2024-06-30T23:59:59.000Z",
+      "classTime": "周二、周四、周六 16:00-18:00",
+      "location": "综合训练馆"
+    },
+    "settings": {
+      "allowSelfEnroll": false,
+      "requireApproval": true,
+      "enabledFeatures": ["practice", "exam", "performance_tracking", "training_plan", "competition_prep"],
+      "notificationSettings": {
+        "assignmentReminders": true,
+        "gradeUpdates": true,
+        "announcements": true
+      }
+    },
+    "curriculum": {
+      "subjects": ["高级专项训练", "运动训练监控", "体育科学研究", "教练员理论"],
+      "objectives": [
+        "精通专项运动技术",
+        "掌握训练方法",
+        "具备科研能力",
+        "培养执教水平"
+      ]
+    },
+    "statistics": {
+      "totalStudents": 2,
+      "activeStudents": 2,
+      "averageProgress": 76.6,
+      "completionRate": 73.5,
+      "averageScore": 76.6
+    },
+    "metadata": {
+      "createdBy": "507f1f77bcf86cd799439202",
+      "createdAt": "2024-01-15T00:00:00.000Z",
+      "updatedAt": "2024-01-15T00:00:00.000Z"
+    }
+  }
+] 

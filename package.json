@@ -1,0 +1,32 @@
+{
+  "name": "jingan-sports-knowledge-platform",
+  "version": "1.0.0",
+  "description": "中小学生个性化体育知识智能化题库平台",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server:dev\" \"npm run client:dev\"",
+    "server:dev": "cd backend && npm run dev",
+    "client:dev": "cd frontend && set DANGEROUSLY_DISABLE_HOST_CHECK=true&& npm start",
+    "build": "cd frontend && npm run build && cd ../backend && npm run build",
+    "start": "concurrently \"npm run server:start\" \"npm run client:dev\"",
+    "server:start": "cd backend && npm start",
+    "install:all": "npm install && cd backend && npm install && cd ../frontend && npm install"
+  },
+  "keywords": [
+    "sports",
+    "education",
+    "quiz",
+    "ai",
+    "platform"
+  ],
+  "author": "融梦科技",
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  },
+  "dependencies": {
+    "@types/fluent-ffmpeg": "^2.1.27",
+    "@types/multer": "^2.0.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "sharp": "^0.34.3"
+  }
+}

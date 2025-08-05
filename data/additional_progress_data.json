@@ -1,0 +1,136 @@
+[
+  {
+    "_id": "507f1f77bcf86cd799444011",
+    "user": "507f1f77bcf86cd799439301",
+    "knowledgeBase": "507f1f77bcf86cd799439012",
+    "knowledgePoint": "507f1f77bcf86cd799440011",
+    "progress": 75,
+    "status": "in_progress",
+    "startedAt": "2024-01-16T09:00:00.000Z",
+    "totalTime": 85,
+    "score": 82,
+    "sessions": [
+      {
+        "startedAt": "2024-01-16T09:00:00.000Z",
+        "endedAt": "2024-01-16T09:30:00.000Z",
+        "duration": 30,
+        "progress": 40
+      },
+      {
+        "startedAt": "2024-01-17T14:30:00.000Z",
+        "endedAt": "2024-01-17T15:25:00.000Z",
+        "duration": 55,
+        "progress": 75
+      }
+    ],
+    "notes": "篮球投篮技术有明显进步，手型和瞄准都更加准确",
+    "bookmarks": [8, 15, 22],
+    "createdAt": "2024-01-16T09:00:00.000Z",
+    "updatedAt": "2024-01-17T15:25:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799444012",
+    "user": "507f1f77bcf86cd799439301",
+    "knowledgeBase": "507f1f77bcf86cd799439014",
+    "knowledgePoint": "507f1f77bcf86cd799440031",
+    "progress": 90,
+    "status": "completed",
+    "startedAt": "2024-01-18T16:30:00.000Z",
+    "completedAt": "2024-01-18T17:15:00.000Z",
+    "totalTime": 45,
+    "score": 95,
+    "sessions": [
+      {
+        "startedAt": "2024-01-18T16:30:00.000Z",
+        "endedAt": "2024-01-18T17:15:00.000Z",
+        "duration": 45,
+        "progress": 100
+      }
+    ],
+    "notes": "田径起跑技术掌握得很好，节奏感很棒",
+    "bookmarks": [5, 12],
+    "createdAt": "2024-01-18T16:30:00.000Z",
+    "updatedAt": "2024-01-18T17:15:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799444013",
+    "user": "507f1f77bcf86cd799439301",
+    "knowledgeBase": "507f1f77bcf86cd799439015",
+    "knowledgePoint": "507f1f77bcf86cd799440041",
+    "progress": 45,
+    "status": "in_progress",
+    "startedAt": "2024-01-19T10:00:00.000Z",
+    "totalTime": 25,
+    "sessions": [
+      {
+        "startedAt": "2024-01-19T10:00:00.000Z",
+        "endedAt": "2024-01-19T10:25:00.000Z",
+        "duration": 25,
+        "progress": 45
+      }
+    ],
+    "notes": "网球正手击球还需要多练习，力度控制不够好",
+    "bookmarks": [3, 7],
+    "createdAt": "2024-01-19T10:00:00.000Z",
+    "updatedAt": "2024-01-19T10:25:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799444014",
+    "user": "507f1f77bcf86cd799439301",
+    "knowledgeBase": "507f1f77bcf86cd799439012",
+    "learningPath": "507f1f77bcf86cd799441002",
+    "progress": 85,
+    "status": "in_progress",
+    "startedAt": "2024-01-16T09:00:00.000Z",
+    "totalTime": 140,
+    "score": 83,
+    "sessions": [
+      {
+        "startedAt": "2024-01-16T09:00:00.000Z",
+        "endedAt": "2024-01-16T09:30:00.000Z",
+        "duration": 30,
+        "progress": 25
+      },
+      {
+        "startedAt": "2024-01-17T14:30:00.000Z",
+        "endedAt": "2024-01-17T15:25:00.000Z",
+        "duration": 55,
+        "progress": 60
+      },
+      {
+        "startedAt": "2024-01-18T09:00:00.000Z",
+        "endedAt": "2024-01-18T09:55:00.000Z",
+        "duration": 55,
+        "progress": 85
+      }
+    ],
+    "notes": "篮球进阶技术学习路径，投篮和传球都有提升",
+    "bookmarks": [],
+    "createdAt": "2024-01-16T09:00:00.000Z",
+    "updatedAt": "2024-01-18T09:55:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799444015",
+    "user": "507f1f77bcf86cd799439301",
+    "knowledgeBase": "507f1f77bcf86cd799439014",
+    "learningPath": "507f1f77bcf86cd799441003",
+    "progress": 100,
+    "status": "completed",
+    "startedAt": "2024-01-18T16:00:00.000Z",
+    "completedAt": "2024-01-18T17:30:00.000Z",
+    "totalTime": 90,
+    "score": 92,
+    "sessions": [
+      {
+        "startedAt": "2024-01-18T16:00:00.000Z",
+        "endedAt": "2024-01-18T17:30:00.000Z",
+        "duration": 90,
+        "progress": 100
+      }
+    ],
+    "notes": "田径基础学习路径完成，对各项目都有了基本了解",
+    "bookmarks": [],
+    "createdAt": "2024-01-18T16:00:00.000Z",
+    "updatedAt": "2024-01-18T17:30:00.000Z"
+  }
+] 

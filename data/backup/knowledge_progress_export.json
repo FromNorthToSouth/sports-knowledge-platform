@@ -1,0 +1,293 @@
+[
+  {
+    "_id": "507f1f77bcf86cd799444001",
+    "user": "507f1f77bcf86cd799439301",
+    "knowledgeBase": "507f1f77bcf86cd799439011",
+    "knowledgePoint": "507f1f77bcf86cd799440001",
+    "progress": 100,
+    "status": "completed",
+    "startedAt": "2024-01-10T09:00:00.000Z",
+    "completedAt": "2024-01-10T09:18:00.000Z",
+    "totalTime": 18,
+    "score": 95,
+    "sessions": [
+      {
+        "startedAt": "2024-01-10T09:00:00.000Z",
+        "endedAt": "2024-01-10T09:18:00.000Z",
+        "duration": 18,
+        "progress": 100
+      }
+    ],
+    "notes": "足球规则掌握得很好，需要加强对越位规则的理解",
+    "bookmarks": [
+      5,
+      12
+    ],
+    "createdAt": "2024-01-10T09:00:00.000Z",
+    "updatedAt": "2024-01-10T09:18:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799444002",
+    "user": "507f1f77bcf86cd799439301",
+    "knowledgeBase": "507f1f77bcf86cd799439011",
+    "knowledgePoint": "507f1f77bcf86cd799440002",
+    "progress": 65,
+    "status": "in_progress",
+    "startedAt": "2024-01-11T10:30:00.000Z",
+    "totalTime": 35,
+    "score": 70,
+    "sessions": [
+      {
+        "startedAt": "2024-01-11T10:30:00.000Z",
+        "endedAt": "2024-01-11T11:00:00.000Z",
+        "duration": 30,
+        "progress": 50
+      },
+      {
+        "startedAt": "2024-01-12T15:00:00.000Z",
+        "endedAt": "2024-01-12T15:05:00.000Z",
+        "duration": 5,
+        "progress": 65
+      }
+    ],
+    "notes": "颠球技巧需要多练习，目前只能连续颠5次",
+    "bookmarks": [
+      3,
+      8,
+      15
+    ],
+    "createdAt": "2024-01-11T10:30:00.000Z",
+    "updatedAt": "2024-01-12T15:05:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799444003",
+    "user": "507f1f77bcf86cd799439301",
+    "knowledgeBase": "507f1f77bcf86cd799439011",
+    "knowledgePoint": "507f1f77bcf86cd799440003",
+    "progress": 25,
+    "status": "in_progress",
+    "startedAt": "2024-01-13T16:00:00.000Z",
+    "totalTime": 12,
+    "sessions": [
+      {
+        "startedAt": "2024-01-13T16:00:00.000Z",
+        "endedAt": "2024-01-13T16:12:00.000Z",
+        "duration": 12,
+        "progress": 25
+      }
+    ],
+    "notes": "传球技术还不熟练，需要继续学习脚内侧传球",
+    "bookmarks": [
+      2
+    ],
+    "createdAt": "2024-01-13T16:00:00.000Z",
+    "updatedAt": "2024-01-13T16:12:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799444004",
+    "user": "507f1f77bcf86cd799439301",
+    "knowledgeBase": "507f1f77bcf86cd799439011",
+    "learningPath": "507f1f77bcf86cd799441001",
+    "progress": 60,
+    "status": "in_progress",
+    "startedAt": "2024-01-10T09:00:00.000Z",
+    "totalTime": 65,
+    "score": 78,
+    "sessions": [
+      {
+        "startedAt": "2024-01-10T09:00:00.000Z",
+        "endedAt": "2024-01-10T10:30:00.000Z",
+        "duration": 90,
+        "progress": 40
+      },
+      {
+        "startedAt": "2024-01-11T10:30:00.000Z",
+        "endedAt": "2024-01-11T11:00:00.000Z",
+        "duration": 30,
+        "progress": 50
+      },
+      {
+        "startedAt": "2024-01-13T16:00:00.000Z",
+        "endedAt": "2024-01-13T16:12:00.000Z",
+        "duration": 12,
+        "progress": 60
+      }
+    ],
+    "notes": "足球基础入门路径进行中，规则掌握较好，技巧需要加强练习",
+    "bookmarks": [],
+    "createdAt": "2024-01-10T09:00:00.000Z",
+    "updatedAt": "2024-01-13T16:12:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799444005",
+    "user": "507f1f77bcf86cd799439302",
+    "knowledgeBase": "507f1f77bcf86cd799439011",
+    "knowledgePoint": "507f1f77bcf86cd799440001",
+    "progress": 100,
+    "status": "completed",
+    "startedAt": "2024-01-14T14:00:00.000Z",
+    "completedAt": "2024-01-14T14:20:00.000Z",
+    "totalTime": 20,
+    "score": 88,
+    "sessions": [
+      {
+        "startedAt": "2024-01-14T14:00:00.000Z",
+        "endedAt": "2024-01-14T14:20:00.000Z",
+        "duration": 20,
+        "progress": 100
+      }
+    ],
+    "notes": "足球规则学习完成，理解良好",
+    "bookmarks": [
+      7
+    ],
+    "createdAt": "2024-01-14T14:00:00.000Z",
+    "updatedAt": "2024-01-14T14:20:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799444006",
+    "user": "507f1f77bcf86cd799439302",
+    "knowledgeBase": "507f1f77bcf86cd799439011",
+    "knowledgePoint": "507f1f77bcf86cd799440002",
+    "progress": 85,
+    "status": "in_progress",
+    "startedAt": "2024-01-14T15:00:00.000Z",
+    "totalTime": 40,
+    "score": 82,
+    "sessions": [
+      {
+        "startedAt": "2024-01-14T15:00:00.000Z",
+        "endedAt": "2024-01-14T15:25:00.000Z",
+        "duration": 25,
+        "progress": 60
+      },
+      {
+        "startedAt": "2024-01-15T10:00:00.000Z",
+        "endedAt": "2024-01-15T10:15:00.000Z",
+        "duration": 15,
+        "progress": 85
+      }
+    ],
+    "notes": "颠球练习很有进步，现在能连续颠15次了",
+    "bookmarks": [
+      4,
+      9,
+      13
+    ],
+    "createdAt": "2024-01-14T15:00:00.000Z",
+    "updatedAt": "2024-01-15T10:15:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799444007",
+    "user": "507f1f77bcf86cd799439302",
+    "knowledgeBase": "507f1f77bcf86cd799439011",
+    "learningPath": "507f1f77bcf86cd799441001",
+    "progress": 75,
+    "status": "in_progress",
+    "startedAt": "2024-01-14T14:00:00.000Z",
+    "totalTime": 60,
+    "score": 85,
+    "sessions": [
+      {
+        "startedAt": "2024-01-14T14:00:00.000Z",
+        "endedAt": "2024-01-14T14:20:00.000Z",
+        "duration": 20,
+        "progress": 30
+      },
+      {
+        "startedAt": "2024-01-14T15:00:00.000Z",
+        "endedAt": "2024-01-14T15:25:00.000Z",
+        "duration": 25,
+        "progress": 60
+      },
+      {
+        "startedAt": "2024-01-15T10:00:00.000Z",
+        "endedAt": "2024-01-15T10:15:00.000Z",
+        "duration": 15,
+        "progress": 75
+      }
+    ],
+    "notes": "足球基础学习进展顺利，对技术训练很感兴趣",
+    "bookmarks": [],
+    "createdAt": "2024-01-14T14:00:00.000Z",
+    "updatedAt": "2024-01-15T10:15:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799444008",
+    "user": "507f1f77bcf86cd799439301",
+    "knowledgeBase": "507f1f77bcf86cd799439013",
+    "knowledgePoint": "507f1f77bcf86cd799440021",
+    "progress": 100,
+    "status": "completed",
+    "startedAt": "2024-01-13T11:00:00.000Z",
+    "completedAt": "2024-01-13T11:15:00.000Z",
+    "totalTime": 15,
+    "score": 92,
+    "sessions": [
+      {
+        "startedAt": "2024-01-13T11:00:00.000Z",
+        "endedAt": "2024-01-13T11:15:00.000Z",
+        "duration": 15,
+        "progress": 100
+      }
+    ],
+    "notes": "游泳安全知识掌握很好，对水上救生很感兴趣",
+    "bookmarks": [
+      6,
+      10
+    ],
+    "createdAt": "2024-01-13T11:00:00.000Z",
+    "updatedAt": "2024-01-13T11:15:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799444009",
+    "user": "507f1f77bcf86cd799439301",
+    "knowledgeBase": "507f1f77bcf86cd799439012",
+    "knowledgePoint": "507f1f77bcf86cd799440011",
+    "progress": 30,
+    "status": "in_progress",
+    "startedAt": "2024-01-14T16:00:00.000Z",
+    "totalTime": 25,
+    "sessions": [
+      {
+        "startedAt": "2024-01-14T16:00:00.000Z",
+        "endedAt": "2024-01-14T16:25:00.000Z",
+        "duration": 25,
+        "progress": 30
+      }
+    ],
+    "notes": "篮球技术比较难，投篮姿势需要大量练习",
+    "bookmarks": [
+      1,
+      5
+    ],
+    "createdAt": "2024-01-14T16:00:00.000Z",
+    "updatedAt": "2024-01-14T16:25:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799444010",
+    "user": "507f1f77bcf86cd799439303",
+    "knowledgeBase": "507f1f77bcf86cd799439011",
+    "knowledgePoint": "507f1f77bcf86cd799440001",
+    "progress": 80,
+    "status": "in_progress",
+    "startedAt": "2024-01-15T13:00:00.000Z",
+    "totalTime": 22,
+    "score": 75,
+    "sessions": [
+      {
+        "startedAt": "2024-01-15T13:00:00.000Z",
+        "endedAt": "2024-01-15T13:22:00.000Z",
+        "duration": 22,
+        "progress": 80
+      }
+    ],
+    "notes": "足球规则基本掌握，对比赛时间和场地有清楚认识",
+    "bookmarks": [
+      3,
+      11
+    ],
+    "createdAt": "2024-01-15T13:00:00.000Z",
+    "updatedAt": "2024-01-15T13:22:00.000Z"
+  }
+]

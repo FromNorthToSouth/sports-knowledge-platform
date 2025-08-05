@@ -1,0 +1,465 @@
+[
+  {
+    "_id": "688b3629f1afffb724790859",
+    "title": "足球越位规则判断题",
+    "content": "在一场足球比赛中，进攻方球员A1在对方半场，接队友A2的长传射门得分。传球瞬间，防守方最后一名后卫（除守门员外）位于本方球门线附近，而A1站在比球和倒数第二名防守球员更靠近对方球门线的位置，但并未参与进攻或干扰守门员。裁判未判罚越位，允许进球有效。请问此判罚是否正确？",
+    "type": "true_false",
+    "options": [
+      {
+        "text": "正确，因为A1虽然处于越位位置，但未实际参与进攻，因此不构成越位犯规。",
+        "isCorrect": true,
+        "explanation": "根据国际足联《足球竞赛规则》第11条，处于越位位置本身不犯规，只有在参与进攻、干扰对手或获得利益时才判越位。本题中A1未参与进攻，故不越位。",
+        "_id": "688b3629f1afffb72479085a"
+      },
+      {
+        "text": "错误，因为A1在传球瞬间位于比倒数第二名防守球员更靠近对方球门线的位置，应判越位。",
+        "isCorrect": false,
+        "explanation": "此选项混淆了‘越位位置’与‘越位犯规’。即使处于越位位置，若未参与进攻或干扰对手，不构成犯规。因此该判罚不应成立。",
+        "_id": "688b3629f1afffb72479085b"
+      },
+      {
+        "text": "正确，因为只有在射门时处于越位位置才被判定，而A1是在跑动中接球。",
+        "isCorrect": false,
+        "explanation": "越位判定依据是‘队友触球瞬间’是否处于越位位置并参与进攻，而非射门时机。此说法缺乏规则依据，属于错误理解。",
+        "_id": "688b3629f1afffb72479085c"
+      },
+      {
+        "text": "错误，因为任何在越位位置获益的球员都应被处罚，无论是否主动参与。",
+        "isCorrect": false,
+        "explanation": "只有当球员从越位位置‘获得利益’（如反弹球）且影响比赛时才判罚。本题未提及此类情况，且明确说明未参与进攻，因此不应判罚。",
+        "_id": "688b3629f1afffb72479085d"
+      }
+    ],
+    "correctAnswer": "正确，因为A1虽然处于越位位置，但未实际参与进攻，因此不构成越位犯规。",
+    "explanation": "本题考察对足球越位规则核心概念的理解。根据《足球竞赛规则》第11条，判断越位犯规需满足两个条件：一是在传球瞬间处于越位位置（比球和倒数第二名防守球员更靠近对方球门线），二是实际参与进攻、干扰对手或获得利益。本题中A1虽处于越位位置，但题干明确指出其‘未参与进攻或干扰守门员’，因此不构成越位犯规，裁判判罚正确。选项B具有较强迷惑性，因许多学习者误将‘越位位置’等同于‘越位犯规’，需特别强调两者的区别。",
+    "category": {
+      "sport": "足球",
+      "knowledgeType": "越位规则、裁判规则"
+    },
+    "tags": [
+      "足球",
+      "越位规则",
+      "裁判规则"
+    ],
+    "difficulty": "medium",
+    "media": {
+      "images": [],
+      "videos": [],
+      "audio": []
+    },
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0,
+      "averageTime": 0
+    },
+    "status": "published",
+    "creator": "688b1493df071b8fc909278b",
+    "isAIGenerated": true,
+    "aiPrompt": "批量生成 - 运动项目：足球，知识点：越位规则、裁判规则，难度：medium，类型：true_false，描述：生成关于足球越位规则判断的题目，包含具体的比赛场景，要求学生能够正确判断是否构成越位",
+    "version": 1,
+    "createdAt": "2025-07-31 09:23:53.655000",
+    "updatedAt": "2025-07-31 09:23:53.655000",
+    "__v": 0
+  },
+  {
+    "_id": "688b3629f1afffb72479085f",
+    "title": "足球越位规则判断题",
+    "content": "在一场足球比赛中，进攻方球员A1在对方半场，接队友A2的长传射门得分。传球瞬间，防守方倒数第二名球员（非守门员）位于中线附近，而A1站在比球和倒数第二名防守球员更靠近球门线的位置，但没有参与进攻或干扰守门员。裁判判罚进球有效。请问此判罚是否正确？",
+    "type": "true_false",
+    "options": [
+      {
+        "text": "正确，因为A1没有触球，不构成越位",
+        "isCorrect": false,
+        "explanation": "即使未触球，只要处于越位位置并参与比赛或获得利益，就可能构成越位",
+        "_id": "688b3629f1afffb724790860"
+      },
+      {
+        "text": "正确，因为A1在传球瞬间虽处于越位位置，但未干扰比赛或防守球员",
+        "isCorrect": true,
+        "explanation": "根据越位规则，处于越位位置本身不犯规，只有在参与进攻、干扰对手或获得利益时才判越位。本题中A1未干扰任何人，裁判判罚正确",
+        "_id": "688b3629f1afffb724790861"
+      },
+      {
+        "text": "错误，因为A1在传球瞬间比倒数第二名防守球员更靠近球门线，应判越位",
+        "isCorrect": false,
+        "explanation": "仅处于越位位置不等于犯规，必须有实际参与或干扰行为才会被判越位",
+        "_id": "688b3629f1afffb724790862"
+      },
+      {
+        "text": "错误，裁判应通过VAR介入改判越位",
+        "isCorrect": false,
+        "explanation": "VAR仅用于明显误判或漏判，若球员未参与比赛，原判有效，无需改判",
+        "_id": "688b3629f1afffb724790863"
+      }
+    ],
+    "correctAnswer": "正确，因为A1在传球瞬间虽处于越位位置，但未干扰比赛或防守球员",
+    "explanation": "本题考查足球越位规则的核心要点：处于越位位置（在对方半场、比球和倒数第二名防守球员更靠近球门线）本身并不犯规，只有当球员在越位位置上参与进攻、干扰对手或从越位位置获利时，才会被判罚。题目中A1虽然处于越位位置，但未触球、未干扰守门员或防守球员，也未影响比赛进程，因此不构成越位，裁判判罚进球有效是正确的。选项B准确反映了这一规则精神。其他选项混淆了‘位置’与‘犯规行为’的区别，属于常见误解。",
+    "category": {
+      "sport": "足球",
+      "knowledgeType": "越位规则、裁判规则"
+    },
+    "tags": [
+      "足球",
+      "越位规则",
+      "裁判规则"
+    ],
+    "difficulty": "medium",
+    "media": {
+      "images": [],
+      "videos": [],
+      "audio": []
+    },
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0,
+      "averageTime": 0
+    },
+    "status": "published",
+    "creator": "688b1493df071b8fc909278b",
+    "isAIGenerated": true,
+    "aiPrompt": "批量生成 - 运动项目：足球，知识点：越位规则、裁判规则，难度：medium，类型：true_false，描述：生成关于足球越位规则判断的题目，包含具体的比赛场景，要求学生能够正确判断是否构成越位",
+    "version": 1,
+    "createdAt": "2025-07-31 09:23:53.665000",
+    "updatedAt": "2025-07-31 09:23:53.665000",
+    "__v": 0
+  },
+  {
+    "_id": "688b3629f1afffb724790865",
+    "title": "足球越位规则判断题",
+    "content": "在一场足球比赛中，进攻方球员A1在对方半场，位于倒数第二名防守球员（不含守门员）的前方，此时队友A2在中线附近带球向前推进。A2向A1方向传出一记直塞球，球刚离开A2脚时，A1比球和倒数第二名防守球员更靠近对方球门线。随后A1接球并射门得分。裁判判罚进球有效。请问此判罚是否正确？",
+    "type": "true_false",
+    "options": [
+      {
+        "text": "正确，因为只有在接球瞬间处于越位位置才构成越位",
+        "isCorrect": false,
+        "explanation": "该说法错误。判断越位的关键时间点是队友触球瞬间，而非接球瞬间。若在传球瞬间处于越位位置，则可能构成越位犯规。",
+        "_id": "688b3629f1afffb724790866"
+      },
+      {
+        "text": "正确，因为A1是在队友传球后才向前跑动，属于反越位成功",
+        "isCorrect": false,
+        "explanation": "该说法具有迷惑性。但规则强调的是传球瞬间的位置，而非跑动时机。若传球瞬间已处于越位位置，则不能视为反越位成功。",
+        "_id": "688b3629f1afffb724790867"
+      },
+      {
+        "text": "错误，因为A1在队友传球瞬间比球和倒数第二名防守球员更靠近对方球门线，构成越位",
+        "isCorrect": true,
+        "explanation": "根据《足球竞赛规则》第11条，越位位置的判定是在队友触球瞬间，若球员处于对方半场且比球和倒数第二名防守球员更靠近对方球门线，则处于越位位置。若此时参与进攻，则应判越位犯规。",
+        "_id": "688b3629f1afffb724790868"
+      },
+      {
+        "text": "错误，因为守门员未参与防守，应以最后一名普通防守球员为基准",
+        "isCorrect": false,
+        "explanation": "该说法错误。越位位置判断中的‘倒数第二名防守球员’通常包括守门员，无论其是否主动参与防守。因此守门员是计算防守人数的重要一员。",
+        "_id": "688b3629f1afffb724790869"
+      }
+    ],
+    "correctAnswer": "错误，因为A1在队友传球瞬间比球和倒数第二名防守球员更靠近对方球门线，构成越位",
+    "explanation": "本题考察足球越位规则的核心要点：越位位置的判断时间点为‘队友触球或传球瞬间’。根据国际足联《足球竞赛规则》第11条，球员处于越位位置的条件是：（1）在对方半场；（2）比球和倒数第二名防守球员更靠近对方球门线。本题中，A1在A2传球瞬间已处于越位位置，且随后接球并完成射门，属于参与进攻，应判越位犯规。因此裁判判罚进球有效是错误的。正确答案为C。选项A和B混淆了‘接球’与‘传球瞬间’的概念；选项D误解了防守球员的计数方式，守门员作为防守方一员必须计入。",
+    "category": {
+      "sport": "足球",
+      "knowledgeType": "越位规则、裁判规则"
+    },
+    "tags": [
+      "足球",
+      "越位规则",
+      "裁判规则"
+    ],
+    "difficulty": "medium",
+    "media": {
+      "images": [],
+      "videos": [],
+      "audio": []
+    },
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0,
+      "averageTime": 0
+    },
+    "status": "published",
+    "creator": "688b1493df071b8fc909278b",
+    "isAIGenerated": true,
+    "aiPrompt": "批量生成 - 运动项目：足球，知识点：越位规则、裁判规则，难度：medium，类型：true_false，描述：生成关于足球越位规则判断的题目，包含具体的比赛场景，要求学生能够正确判断是否构成越位",
+    "version": 1,
+    "createdAt": "2025-07-31 09:23:53.669000",
+    "updatedAt": "2025-07-31 09:23:53.669000",
+    "__v": 0
+  },
+  {
+    "_id": "507f1f77bcf86cd799442001",
+    "title": "足球比赛基本规则",
+    "content": "足球比赛每半场的标准时间是多少分钟？",
+    "type": "single_choice",
+    "options": [
+      {
+        "text": "30分钟",
+        "isCorrect": false,
+        "explanation": "30分钟太短，不是标准时间"
+      },
+      {
+        "text": "45分钟",
+        "isCorrect": true,
+        "explanation": "正确，足球比赛每半场标准时间是45分钟"
+      },
+      {
+        "text": "60分钟",
+        "isCorrect": false,
+        "explanation": "60分钟是整场比赛的净时间，不是半场时间"
+      },
+      {
+        "text": "90分钟",
+        "isCorrect": false,
+        "explanation": "90分钟是整场比赛时间，包括两个半场"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "根据国际足联规定，足球比赛分为上下两个半场，每半场45分钟，中间休息15分钟。裁判可以根据比赛中断情况适当补时。",
+    "category": {
+      "sport": "足球",
+      "knowledgeType": "规则",
+      "subCategory": "比赛时间"
+    },
+    "tags": [
+      "足球",
+      "规则",
+      "时间",
+      "基础"
+    ],
+    "difficulty": "easy",
+    "media": {
+      "images": [
+        "/images/questions/football_time.jpg"
+      ],
+      "videos": [],
+      "audio": []
+    },
+    "stats": {
+      "totalAttempts": 234,
+      "correctAttempts": 198,
+      "accuracy": 84.62,
+      "averageTime": 12
+    },
+    "status": "published",
+    "creator": "507f1f77bcf86cd799439201",
+    "reviewedBy": "507f1f77bcf86cd799439101",
+    "reviewedAt": "2024-01-02T10:00:00.000Z",
+    "isAIGenerated": false,
+    "version": 1,
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-15T08:30:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799442002",
+    "title": "足球颠球技巧",
+    "content": "在进行足球颠球训练时，以下哪些身体部位可以使用？（多选题）",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "脚背",
+        "isCorrect": true,
+        "explanation": "脚背是颠球的主要部位之一"
+      },
+      {
+        "text": "大腿",
+        "isCorrect": true,
+        "explanation": "大腿可以用来颠球，增加变化"
+      },
+      {
+        "text": "头部",
+        "isCorrect": true,
+        "explanation": "头部颠球能提高头球技术"
+      },
+      {
+        "text": "手臂",
+        "isCorrect": false,
+        "explanation": "手臂不能用于颠球，这违反足球规则"
+      }
+    ],
+    "correctAnswer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "足球颠球可以使用除手臂以外的身体部位，主要包括脚背、脚内侧、大腿、胸部、头部等。通过不同部位的练习可以提高球感和身体协调性。",
+    "category": {
+      "sport": "足球",
+      "knowledgeType": "技术",
+      "subCategory": "颠球"
+    },
+    "tags": [
+      "足球",
+      "颠球",
+      "技术",
+      "训练"
+    ],
+    "difficulty": "medium",
+    "media": {
+      "images": [
+        "/images/questions/football_juggling.jpg"
+      ],
+      "videos": [
+        "/videos/questions/juggling_demo.mp4"
+      ],
+      "audio": []
+    },
+    "stats": {
+      "totalAttempts": 189,
+      "correctAttempts": 145,
+      "accuracy": 76.72,
+      "averageTime": 18
+    },
+    "status": "published",
+    "creator": "507f1f77bcf86cd799439201",
+    "reviewedBy": "507f1f77bcf86cd799439101",
+    "reviewedAt": "2024-01-03T10:00:00.000Z",
+    "isAIGenerated": false,
+    "version": 1,
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2024-01-15T09:15:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799442003",
+    "title": "足球传球判断",
+    "content": "判断：脚内侧传球适合长距离传球。",
+    "type": "true_false",
+    "options": [
+      {
+        "text": "正确",
+        "isCorrect": false,
+        "explanation": "脚内侧传球主要用于短距离精确传球"
+      },
+      {
+        "text": "错误",
+        "isCorrect": true,
+        "explanation": "正确，脚内侧传球精度高但力量有限，适合短距离传球"
+      }
+    ],
+    "correctAnswer": 1,
+    "explanation": "脚内侧传球的特点是精确度高、控制性好，但传球力量相对较小，因此主要适用于短距离的精确传球。长距离传球通常使用脚背或脚弓传球。",
+    "category": {
+      "sport": "足球",
+      "knowledgeType": "技术",
+      "subCategory": "传球"
+    },
+    "tags": [
+      "足球",
+      "传球",
+      "技术",
+      "判断"
+    ],
+    "difficulty": "medium",
+    "media": {
+      "images": [
+        "/images/questions/football_passing.jpg"
+      ],
+      "videos": [],
+      "audio": []
+    },
+    "stats": {
+      "totalAttempts": 156,
+      "correctAttempts": 124,
+      "accuracy": 79.49,
+      "averageTime": 15
+    },
+    "status": "published",
+    "creator": "507f1f77bcf86cd799439201",
+    "reviewedBy": "507f1f77bcf86cd799439101",
+    "reviewedAt": "2024-01-04T10:00:00.000Z",
+    "isAIGenerated": false,
+    "version": 1,
+    "createdAt": "2024-01-04T00:00:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799442004",
+    "title": "篮球投篮技术",
+    "content": "描述正确的篮球罚球姿势要点。",
+    "type": "case_analysis",
+    "options": [],
+    "correctAnswer": "标准答案要点：1.双脚与肩同宽站立；2.投篮手在球的正下方；3.辅助手在球的侧面；4.瞄准篮筐后沿；5.手腕下压完成投篮动作；6.保持良好的弧线。",
+    "explanation": "正确的罚球姿势是篮球基本功的重要组成部分。良好的站姿、正确的持球手型、准确的瞄准点和流畅的投篮动作是成功罚球的关键要素。",
+    "category": {
+      "sport": "篮球",
+      "knowledgeType": "技术",
+      "subCategory": "投篮"
+    },
+    "tags": [
+      "篮球",
+      "投篮",
+      "罚球",
+      "技术"
+    ],
+    "difficulty": "hard",
+    "media": {
+      "images": [
+        "/images/questions/basketball_freethrow.jpg"
+      ],
+      "videos": [
+        "/videos/questions/freethrow_technique.mp4"
+      ],
+      "audio": []
+    },
+    "stats": {
+      "totalAttempts": 98,
+      "correctAttempts": 56,
+      "accuracy": 57.14,
+      "averageTime": 45
+    },
+    "status": "published",
+    "creator": "507f1f77bcf86cd799439202",
+    "reviewedBy": "507f1f77bcf86cd799439101",
+    "reviewedAt": "2024-01-05T10:00:00.000Z",
+    "isAIGenerated": false,
+    "version": 1,
+    "createdAt": "2024-01-05T00:00:00.000Z",
+    "updatedAt": "2024-01-15T11:45:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799442005",
+    "title": "游泳安全知识",
+    "content": "游泳前的热身运动至少应进行______分钟，下水前应先______以适应水温。",
+    "type": "fill_blank",
+    "options": [],
+    "correctAnswer": [
+      "5-10",
+      "试水"
+    ],
+    "explanation": "游泳前进行5-10分钟的热身运动可以预防抽筋和运动伤害。下水前试水可以让身体逐渐适应水温，避免突然接触冷水造成的生理反应。",
+    "category": {
+      "sport": "游泳",
+      "knowledgeType": "安全",
+      "subCategory": "游泳准备"
+    },
+    "tags": [
+      "游泳",
+      "安全",
+      "热身",
+      "准备"
+    ],
+    "difficulty": "easy",
+    "media": {
+      "images": [
+        "/images/questions/swimming_warmup.jpg"
+      ],
+      "videos": [],
+      "audio": []
+    },
+    "stats": {
+      "totalAttempts": 167,
+      "correctAttempts": 134,
+      "accuracy": 80.24,
+      "averageTime": 20
+    },
+    "status": "published",
+    "creator": "507f1f77bcf86cd799439201",
+    "reviewedBy": "507f1f77bcf86cd799439101",
+    "reviewedAt": "2024-01-06T10:00:00.000Z",
+    "isAIGenerated": false,
+    "version": 1,
+    "createdAt": "2024-01-06T00:00:00.000Z",
+    "updatedAt": "2024-01-15T12:20:00.000Z"
+  }
+]

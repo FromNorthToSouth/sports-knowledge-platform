@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "507f1f77bcf86cd799439011",
+    "title": "足球基础技能训练",
+    "description": "从零开始学习足球基本技能，包括颠球、传球、射门等核心技术动作。课程包含理论知识和实践技巧，适合初学者系统学习。",
+    "cover": "/images/covers/football_basics.svg",
+    "category": "足球",
+    "level": "beginner",
+    "status": "published",
+    "isPublic": true,
+    "tags": ["足球", "基础技能", "初学者", "技术训练"],
+    "author": "507f1f77bcf86cd799439201",
+    "allowedInstitutions": ["507f1f77bcf86cd799439011"],
+    "collaborators": ["507f1f77bcf86cd799439202"],
+    "stats": {
+      "knowledgePoints": 24,
+      "resources": 18,
+      "learners": 156,
+      "completionRate": 78,
+      "avgRating": 4.6,
+      "totalViews": 1523
+    },
+    "settings": {
+      "autoPublish": false,
+      "allowComments": true,
+      "requireApproval": true,
+      "trackProgress": true
+    },
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-15T08:30:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439012",
+    "title": "篮球进阶技术",
+    "description": "面向有一定基础的学员，深入学习篮球高级技术和战术配合。包含投篮技巧、防守策略、团队配合等高级内容。",
+    "cover": "/images/covers/basketball_advanced.svg",
+    "category": "篮球",
+    "level": "intermediate",
+    "status": "published",
+    "isPublic": true,
+    "tags": ["篮球", "进阶技术", "战术", "团队配合"],
+    "author": "507f1f77bcf86cd799439202",
+    "allowedInstitutions": ["507f1f77bcf86cd799439011"],
+    "collaborators": ["507f1f77bcf86cd799439201"],
+    "stats": {
+      "knowledgePoints": 32,
+      "resources": 28,
+      "learners": 89,
+      "completionRate": 65,
+      "avgRating": 4.8,
+      "totalViews": 945
+    },
+    "settings": {
+      "autoPublish": false,
+      "allowComments": true,
+      "requireApproval": true,
+      "trackProgress": true
+    },
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-15T09:45:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439013",
+    "title": "游泳安全与技能",
+    "description": "学习游泳基本技能和水上安全知识，适合初学者。涵盖不同泳姿技巧、水上救生、安全防护等重要内容。",
+    "cover": "/images/covers/swimming_safety.svg",
+    "category": "游泳",
+    "level": "beginner",
+    "status": "published",
+    "isPublic": true,
+    "tags": ["游泳", "安全知识", "泳姿技巧", "水上救生"],
+    "author": "507f1f77bcf86cd799439201",
+    "allowedInstitutions": ["507f1f77bcf86cd799439011", "507f1f77bcf86cd799439012"],
+    "collaborators": [],
+    "stats": {
+      "knowledgePoints": 18,
+      "resources": 15,
+      "learners": 234,
+      "completionRate": 82,
+      "avgRating": 4.5,
+      "totalViews": 1856
+    },
+    "settings": {
+      "autoPublish": false,
+      "allowComments": true,
+      "requireApproval": false,
+      "trackProgress": true
+    },
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439014",
+    "title": "田径运动基础",
+    "description": "田径运动基础知识和训练方法，包含短跑、长跑、跳跃、投掷等多个项目的技术要点和训练计划。",
+    "cover": "/images/covers/athletics_basics.svg",
+    "category": "田径",
+    "level": "beginner",
+    "status": "published",
+    "isPublic": true,
+    "tags": ["田径", "跑步", "跳跃", "投掷", "训练方法"],
+    "author": "507f1f77bcf86cd799439201",
+    "allowedInstitutions": ["507f1f77bcf86cd799439011"],
+    "collaborators": [],
+    "stats": {
+      "knowledgePoints": 28,
+      "resources": 22,
+      "learners": 178,
+      "completionRate": 71,
+      "avgRating": 4.4,
+      "totalViews": 1267
+    },
+    "settings": {
+      "autoPublish": false,
+      "allowComments": true,
+      "requireApproval": true,
+      "trackProgress": true
+    },
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2024-01-15T11:15:00.000Z"
+  },
+  {
+    "_id": "507f1f77bcf86cd799439015",
+    "title": "网球技巧提升",
+    "description": "系统学习网球技术，从基础击球到高级战术，适合想要提升网球水平的学员。",
+    "cover": "/images/covers/tennis_skills.svg",
+    "category": "网球",
+    "level": "intermediate",
+    "status": "published",
+    "isPublic": true,
+    "tags": ["网球", "击球技巧", "战术", "技术提升"],
+    "author": "507f1f77bcf86cd799439202",
+    "allowedInstitutions": ["507f1f77bcf86cd799439011", "507f1f77bcf86cd799439012"],
+    "collaborators": [],
+    "stats": {
+      "knowledgePoints": 26,
+      "resources": 20,
+      "learners": 95,
+      "completionRate": 68,
+      "avgRating": 4.7,
+      "totalViews": 756
+    },
+    "settings": {
+      "autoPublish": false,
+      "allowComments": true,
+      "requireApproval": true,
+      "trackProgress": true
+    },
+    "createdAt": "2024-01-04T00:00:00.000Z",
+    "updatedAt": "2024-01-15T12:00:00.000Z"
+  }
+] 
