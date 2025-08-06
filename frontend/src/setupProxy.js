@@ -5,7 +5,7 @@ module.exports = function(app) {
   app.use(
     '/api',
     createProxyMiddleware({
-      target: 'http://localhost:5000',
+      target: 'http://localhost:5001',
       changeOrigin: true,
       secure: false,
       logLevel: 'debug',
@@ -14,7 +14,7 @@ module.exports = function(app) {
       onError: (err, req, res) => {
         console.error('🔴 代理错误:', err.message);
         console.error('请求路径:', req.path);
-        console.error('目标地址:', 'http://localhost:5000');
+        console.error('目标地址:', 'http://localhost:5001');
         console.error('错误详情:', err);
         
         // 发送友好的错误响应
@@ -23,7 +23,7 @@ module.exports = function(app) {
             success: false,
             message: '后端服务连接失败，请检查后端服务是否正常运行',
             error: err.message,
-            target: 'http://localhost:5000',
+            target: 'http://localhost:5001',
             path: req.path,
             timestamp: new Date().toISOString()
           });
@@ -50,7 +50,7 @@ module.exports = function(app) {
   app.use(
     '/uploads',
     createProxyMiddleware({
-      target: 'http://localhost:5000',
+      target: 'http://localhost:5001',
       changeOrigin: true,
       secure: false,
       logLevel: 'warn'
@@ -62,7 +62,7 @@ module.exports = function(app) {
     res.json({
       status: 'ok',
       proxy: {
-        target: 'http://localhost:5000',
+        target: 'http://localhost:5001',
         paths: ['/api', '/uploads']
       },
       timestamp: new Date().toISOString()

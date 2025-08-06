@@ -5,7 +5,7 @@ import { message } from 'antd';
 const api = axios.create({
   // 临时直接指向后端服务器，绕过代理
   baseURL: process.env.NODE_ENV === 'development' 
-    ? 'http://localhost:5000/api'  // 开发环境直接访问后端
+    ? 'http://localhost:5001/api'  // 开发环境直接访问后端
     : '/api',  // 生产环境使用相对路径
 });
 

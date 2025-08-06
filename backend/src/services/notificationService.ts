@@ -197,6 +197,11 @@ class NotificationService {
     content: string;
     type: 'system' | 'assignment' | 'exam' | 'grade' | 'announcement' | 'achievement' | 'reminder' | 'warning';
     priority?: 'low' | 'medium' | 'high';
+    category?: string;
+    targetAudience?: {
+      type: 'all' | 'role' | 'institution' | 'class' | 'user' | 'custom';
+      criteria?: any;
+    };
     metadata?: any;
     channels?: Array<'in_app' | 'email' | 'sms' | 'push'>;
   }): Promise<void> {
